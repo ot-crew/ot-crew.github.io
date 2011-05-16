@@ -1,6 +1,6 @@
 li
   h3
-    a( href=user.imgUrl ): img( src=user.imgUrl )
+    a( href=(user.imgUrl || defaultImg) ): img( src=(user.imgUrl || defaultImg) )
     = user.name
 
   ul
@@ -16,7 +16,8 @@ li
       a( href="http://maps.google.com/maps?&amp;q=" + (user.coords || user.location), title="Show it on a big map" )
         img( src="http://maps.google.com/maps/api/staticmap?center=" + (user.coords || user.location) + "&amp;zoom=14&amp;size=175x175&amp;maptype=roadmap&amp;sensor=false", width="175", height="175" )
 
-    li.occupation Occupation: #{user.occupation}
+    li.occupation Occupation: 
+      != user.occupation
 
     li.birthday Birthday: #{user.birthday}
 

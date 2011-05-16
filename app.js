@@ -57,6 +57,7 @@ app.get( '/', function( req, res ) {
   res.render( 'index',
     { title: '-ot crew'
     , crew: crew
+    , defaultImg: '/images/batman-for-facebook.jpg'
     })
 })
 

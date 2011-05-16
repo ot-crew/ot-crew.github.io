@@ -1,6 +1,5 @@
 (function( window, document, $, undefined) {
 
-  // imgUrl : "http://1.bp.blogspot.com/_PoXAWsmO1Fo/TItW-AmTjZI/AAAAAAAAEYw/yO4dqc802_c/s1600/batman-for-facebook.jpg"
   var tooltip
 
   // Append to list
