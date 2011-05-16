@@ -1,2 +1,7 @@
-h1= title
-p Welcome to #{title}
+header
+  h1 jQuery-ot
+  p Fork this junk up!
+
+ul#crew
+  != partial( 'shared/user.jade', { collection: crew, as: 'user' } )
+

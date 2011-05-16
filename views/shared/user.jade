@@ -1,0 +1,22 @@
+li
+  h3
+    a( href=user.imgUrl ): img( src=user.imgUrl )
+    = user.name
+
+  ul
+    li.irc IRC nick: #{user.irc}
+
+    li.twitter Twitter: 
+      a( href="http://twitter.com/" + user.twitter ) @#{user.twitter}
+
+    li.github GitHub: 
+      a( href="https://github.com/" + user.github )= user.github
+
+    li.location Location: #{user.location}
+      a( href="http://maps.google.com/maps?&amp;q=" + (user.coords || user.location), title="Show it on a big map" )
+        img( src="http://maps.google.com/maps/api/staticmap?center=" + (user.coords || user.location) + "&amp;zoom=14&amp;size=175x175&amp;maptype=roadmap&amp;sensor=false", width="175", height="175" )
+
+    li.occupation Occupation: #{user.occupation}
+
+    li.birthday Birthday: #{user.birthday}
+

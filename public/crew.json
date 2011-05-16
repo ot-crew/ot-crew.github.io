@@ -1,0 +1,293 @@
+[ { "irc": "gnarf"
+  , "twitter": "gnarf37"
+  , "github": "gnarf37"
+  , "location": "Rockford, IL"
+  , "name": "Corey Frang"
+  , "birthday": "27 May, 1980"
+  , "imgUrl": "http://a1.twimg.com/profile_images/1158131746/41424_560729700_146_q.jpg"
+  }
+
+, { "irc": "miketaylr"
+  , "twitter": "miketaylr"
+  , "github": "miketaylr"
+  , "location": "Brooklyn, NY"
+  , "name": "Mike Taylor"
+  , "birthday": "October 10, 1980"
+  , "imgUrl": "http://a2.twimg.com/profile_images/1042621997/mikeyyyy.png"
+  }
+
+, { "irc": "gf3"
+  , "twitter": "gf3"
+  , "github": "gf3"
+  , "location": "Toronto, Canada"
+  , "name": "Gianni Chiappetta"
+  , "birthday": "March 27, 1988"
+  , "imgUrl": "http://a2.twimg.com/profile_images/1305899303/Handlebars_Square_reasonably_small.png"
+  }
+
+, { "irc": "eddiemonge"
+  , "twitter": "eddiemonge"
+  , "github": "eddiemonge"
+  , "location": "Martinez, California, USA"
+  , "name": "Eddie Monge"
+  , "imgUrl": "http://a1.twimg.com/profile_images/1250831839/Photo_on_2011-02-21_at_12.52__2.jpg"
+  , "birthday": "04/03/1983"
+  , "occupation": "Computer Guy"
+  }
+
+, { "irc": "benschwarz"
+  , "twitter": "benschwarz"
+  , "github": "benschwarz"
+  , "location": "Melbourne, Australia (currently in PDX/SF)"
+  , "name": "Ben Schwarz"
+  , "occupation": "Independent web guy"
+  , "imgUrl": "http://a2.twimg.com/profile_images/280124623/Photo-69.png"
+  }
+
+, { "irc": "Peter`"
+  , "twitter": "beverloo"
+  , "location": "Amsterdam, the Netherlands"
+  , "name": "Peter Beverloo"
+  , "occupation": "Freelance front-end engineer. Soon to be Noogler"
+  , "birthday": "June 9, 1989"
+  , "imgUrl": "http://a0.twimg.com/profile_images/1021016589/twitter_reasonably_small.jpg"
+  }
+
+, { "irc": "paul_irish"
+  , "twitter": "paul_irish"
+  , "location": "SF, CA"
+  , "name": "Paul Irish"
+  , "occupation": "Google Chrome Developer Relations"
+  , "birthday": "July 23, 1982"
+  , "imgUrl": "http://a1.twimg.com/profile_images/1326877605/greenavatar_crop.jpg"
+  }
+
+, { "irc": "matjas"
+  , "twitter": "mathias"
+  , "github": "mathiasbynens"
+  , "name": "Mathias Bynens"
+  , "location": "Belgium"
+  , "occupation": "Freelance front-end developer"
+  , "birthday": "May 24, 1988"
+  , "imgUrl": "http://a0.twimg.com/profile_images/1255767431/kung-fu.jpg"
+  }
+
+, { "irc": "erichynds"
+  , "twitter": "erichynds"
+  , "github": "ehynds"
+  , "name": "Eric Hynds"
+  , "location": "Boston, MA"
+  , "occupation": "front-end developer"
+  , "birthday": "August 4, 1986"
+  , "imgUrl": "http://a2.twimg.com/profile_images/701241280/me-face.png"
+  }
+
+, { "irc": "JonathanNeal"
+  , "twitter": "jon_neal"
+  , "github": "jonathantneal"
+  , "location": "Fullerton, CA"
+  , "name": "Jonathan Neal"
+  , "birthday": "September 20, 1982"
+  , "imgUrl": "http://a0.twimg.com/profile_images/618505643/tweet.jpg"
+  }
+
+, { "irc": "Brodingo"
+  , "twitter": "Brodingo"
+  , "location": "Austin, TX"
+  , "name": "Brody Kwiatkowski"
+  , "occupation": "Web Developer, <a target='_blank' href='http://aglimmerofhope.org'>A Glimmer Of Hope Foundation</a>"
+  , "birthday": "May 8, 1987"
+  , "imgUrl": "http://a1.twimg.com/profile_images/1291815674/Photo_1.jpg"
+  }
+
+, { "irc": "nimbupani"
+  , "twitter": "nimbuin"
+  , "github": "nimbupani"
+  , "location": "Seattle"
+  , "name": "Divya Manian"
+  , "occupation": "Web Opener, Opera"
+  , "birthday": "July 18, 1983"
+  , "imgUrl": "http://a3.twimg.com/profile_images/1132114368/divya-june-2010.jpg"
+  }
+
+, { "irc": "unruthless"
+  , "twitter": "unruthless"
+  , "github": "unruthless"
+  , "location": "Boston, MA"
+  , "name": "Ruthie BenDor"
+  , "imgUrl": "http://www.unruthless.com/images/site_image_assets/ruthie_bendor.jpg"
+  }
+
+, { "irc": "ajpiano"
+  , "twitter": "ajpiano"
+  , "github": "ajpiano"
+  , "location": "New York, NY"
+  , "name": "adam j. sontag"
+  , "birthday": "March 17, 1986"
+  , "imgUrl": "http://a1.twimg.com/profile_images/1320031614/twitpic_beer.png"
+  }
+
+, { "irc": "tbranyen"
+  , "twitter": "tbranyen"
+  , "github": "tbranyen"
+  , "location": "Boston, MA"
+  , "name": "Tim Branyen"
+  , "occupation": "Developer"
+  , "imgUrl": "http://a2.twimg.com/profile_images/1266952523/200551_704483756985_24408698_37833741_1990632_n.jpg"
+  }
+
+, { "irc": "antonkovalyov"
+  , "twitter": "antonkovalyov"
+  , "github": "antonkovalyov"
+  , "location": "San Francisco, CA"
+  , "name": "Anton Kovalyov"
+  , "occupation": "Debugger"
+  , "imgUrl": "http://a0.twimg.com/profile_images/1249337305/IMG_7266.jpg"
+  }
+
+, { "irc": "dytrivedi"
+  , "twitter": "dhavaltrivedi"
+  , "github": "dytrivedi"
+  , "location": "Bangalore, India"
+  , "name": "Dhaval Trivedi"
+  , "occupation": "Technical Manager, Sourcebits"
+  , "birthday": "May 30, 1983"
+  , "imgUrl": "http://a1.twimg.com/profile_images/1138558050/dhaval.jpg"  
+  }
+
+, { "irc": "atula"
+  , "twitter": "autalpha"
+  , "github": "autalpha"
+  , "location": "Boston, MA, USA"
+  , "name": "Vuong Nguyen"
+  , "occupation": "Web Developer"
+  }
+
+, { "irc": "Aamir"
+  , "twitter": "aamirafridi"
+  , "github": "aamirafridi"
+  , "location": "London, UK"
+  , "name": "Aamir Afridi"
+  , "occupation": "Front-end Developer"
+  , "birthday": "December 23, 1982"
+  , "imgUrl": "http://a2.twimg.com/profile_images/1039330777/aamir.png"
+  }
+
+, { "irc": "seutje"
+  , "twitter": "seutje"
+  , "github": "seutje"
+  , "location": "Antwerp, BE"
+  , "name": "Steve De Jonghe"
+  , "occupation": "Senior Drupal Themer"
+  , "birthday": "July 8, 1986"
+  , "imgUrl": "http://seutje.be/icanhazjqueries/images/brilleke.jpg"
+  }
+
+, { "irc": "pifantastic"
+  , "twitter": "AaronForsander"
+  , "github": "pifantastic"
+  , "location": "Austin, TX, USA"
+  , "name": "Aaron Forsander"
+  , "occupation": "Developer"
+  , "birthday": "December 13, 1985"
+  , "imgUrl": "http://a0.twimg.com/profile_images/1260567510/IMAG0005-1.jpg"
+  }
+
+, { "irc": "SlexAxton"
+  , "twitter": "SlexAxton"
+  , "location": "Austin, Texas"
+  , "name": "Alex Sexton"
+  , "occupation": "LOLERSKATING"
+  , "birthday": "March 13, 1986"
+  , "imgUrl": "https://si3.twimg.com/profile_images/505590110/1ac219a6360a061d1ab2dbdc93435c96_reasonably_small.jpeg"
+  }
+
+, { "irc": "roger_raymond"
+  , "twitter": "iansym"
+  , "github": "iansym"
+  , "location": "41.561537,-72.783474"
+  , "name": "Roger Raymond"
+  , "occupation": "Staff Web Developer, ESPN.com"
+  , "birthday": "August 30, 1972"
+  }
+
+, { "irc": "ralphholzmann"
+  , "twitter": "ralphholzmann"
+  , "github": "ralphholzmann"
+  , "location": "Fond du Lac, Wisconsin"
+  , "name": "Ralph Holzmann"
+  , "occupation": "Software Engineer, GroupCard"
+  , "birthday": "February 24, 1987"
+  , "imgUrl": "http://a1.twimg.com/profile_images/1320001442/ralph2square.jpg"
+  }
+
+, { "irc": "serio"
+  , "twitter": "simplestick"
+  , "location": "Ottawa, CANADA"
+  , "name": "Ricky Miller"
+  , "occupation": "Front-end Developer"
+  , "birthday": ""
+  , "imgUrl": "http://a3.twimg.com/profile_images/1280724829/rawr.jpg"
+  }
+
+, { "irc": "karbassi"
+  , "twitter": "karbassi"
+  , "github": "karbassi"
+  , "location": "Minneapolis, MN"
+  , "name": "Ali Karbassi"
+  , "occupation": "Interactive Developer"
+  , "birthday": "May 6, 1986"
+  , "imgUrl": "http://a1.twimg.com/profile_images/589432832/Eye-to-Eye-2_normal.jpg"
+  }
+
+, { "irc": "danheberden"
+  , "twitter": "danheberden"
+  , "github": "danheberden"
+  , "location": "Beaverton, Oregon"
+  , "name": "Dan Heberden"
+  , "occupation": "Independent Consultant"
+  , "birthday": "May 28, 1983"
+  , "imgUrl": "http://a3.twimg.com/profile_images/1281159034/headshot_new_200_reasonably_small.jpg"
+  }
+
+, { "irc": "addyosmani"
+  , "twitter": "addyosmani"
+  , "github": "addyosmani"
+  , "location": "London, England"
+  , "name": "Addy Osmani"
+  , "imgUrl": "http://a0.twimg.com/profile_images/1256987680/addyosmaniicon.jpg"
+  , "birthday": "March 24, 1986"
+  , "occupation": "User-interface Developer"
+  }
+
+, { "irc": "BBonifield"
+  , "twitter": "BBonifield"
+  , "github": "BBonifield"
+  , "location": "Wichita, KS"
+  , "name": "Bob Bonifield"
+  , "imgUrl": "http://a2.twimg.com/profile_images/412806653/9332_747889072309_16832216_42552089_1790181_n_normal.jpg"
+  , "birthday": "March 29, 1983"
+  , "occupation": ""
+  }
+
+, { "irc": "sean`"
+  , "twitter": "seankoole"
+  , "github": "seankoole"
+  , "location": "Amsterdam, Netherlands"
+  , "name": "Sean Koole"
+  , "imgUrl": "http://a0.twimg.com/profile_images/1103428238/image_normal.jpg"
+  , "birthday": "May 22, 1989"
+  , "occupation": ""
+  }
+
+, { "irc": "jonclark"
+  , "twitter": "jonscottclark"
+  , "github": "jonscottclark"
+  , "location": "London, Canada"
+  , "name": "Jon Clark"
+  , "imgUrl": "http://a1.twimg.com/profile_images/727855592/ME_smaller_normal.jpg"
+  , "birthday": "September 1, 1986"
+  , "occupation": "Web Developer, Hall Marketing Communications"
+  }
+]
+
