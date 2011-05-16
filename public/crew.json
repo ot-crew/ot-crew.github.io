@@ -298,5 +298,13 @@
   , "birthday": "December 28, 1985"
   , "occupation": "JavaScript Programmer"
   }
+, { "irc": "ben_alman"
+  , "twitter": "cowboy"
+  , "github": "cowboy"
+  , "location": "Boston, MA"
+  , "name": "Ben Alman"
+  , "imgUrl": "http://benalman.com/images/avatar/headshot_kangol_200.jpg"
+  , "birthday": "November 10, 1975"
+  , "occupation": "Musician, Photographer, Pluginizer"
+  }
 ]
-
