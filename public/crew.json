@@ -289,5 +289,14 @@
   , "birthday": "September 1, 1986"
   , "occupation": "Web Developer, Hall Marketing Communications"
   }
+, { "irc": "boaz"
+  , "twitter": "boazsender"
+  , "github": "boazsender"
+  , "location": "Boston, MA"
+  , "name": "Boaz Sender"
+  , "imgUrl": "http://boazsender.com/boaz-sender.jpg"
+  , "birthday": "December 28, 1985"
+  , "occupation": "JavaScript Programmer"
+  }
 ]
 
