@@ -344,4 +344,12 @@
   , "birthday": "February 14, 1983"
   , "occupation": "IT Manager"
   }
+, { "irc": "fermion"
+  , "twitter": "fermion"
+  , "github": "fermion"
+  , "location": "Boston, MA"
+  , "name": "Rob Sterner"
+  , "birthday": "June 6, 1978"
+  , "imgUrl": "http://www.gravatar.com/avatar/725d78780e24d930b9f3a910a10f71cb.png"
+  }
 ]
