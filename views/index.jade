@@ -1,6 +1,6 @@
 header
   h1 -ot!
-  p Fork this junk up!
+  p We are #{crew.length} strong!
 
 ul#crew
   != partial( 'shared/user.jade', { collection: crew, as: 'user', locals: { defaultImg: defaultImg } } )
