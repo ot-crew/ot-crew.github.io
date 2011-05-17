@@ -352,4 +352,13 @@
   , "birthday": "June 6, 1978"
   , "imgUrl": "http://www.gravatar.com/avatar/725d78780e24d930b9f3a910a10f71cb.png"
   }
+, { "irc": "bentruyman"
+  , "twitter": "bentruyman"
+  , "github": "bentruyman"
+  , "location": "Chicago, IL"
+  , "name": "Ben Truyman"
+  , "birthday": "July 28, 1987"
+  , "imgUrl": "http://www.gravatar.com/avatar/59102db8584fb0aec0c7832e6a2065ca.png"
+	, "occupation": "Senior Developer"
+  }
 ]
