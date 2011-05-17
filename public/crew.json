@@ -335,4 +335,13 @@
   , "birthday": "February 18, 1988"
   , "occupation": "Web Developer & Designer"
   }
+, { "irc": "mekwall"
+  , "twitter": "mekwall"
+  , "github": "mekwall"
+  , "location": "Gothenburg, Sweden"
+  , "name": "Marcus Ekwall"
+  , "imgUrl": "http://a4.sphotos.ak.fbcdn.net/hphotos-ak-ash2/157007_10150108690698594_537693593_7361783_6038265_n.jpg"
+  , "birthday": "February 14, 1983"
+  , "occupation": "IT Manager"
+  }
 ]
