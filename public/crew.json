@@ -352,4 +352,12 @@
   , "birthday": "June 6, 1978"
   , "imgUrl": "http://www.gravatar.com/avatar/725d78780e24d930b9f3a910a10f71cb.png"
   }
+, { "irc": "nlogax"
+  , "twitter": "ultror"
+  , "github": "nlogax"
+  , "location": "Stockholm, Sweden"
+  , "name": "Jonas Westerlund"
+  , "imgUrl": "http://a0.twimg.com/profile_images/1228576614/Photo_on_2011-01-23_at_19.31__3.jpg"
+  , "occupation": "Developer at Spotify"
+  }
 ]
