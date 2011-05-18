@@ -386,6 +386,15 @@
   , "name": "Ben Truyman"
   , "birthday": "July 28, 1987"
   , "imgUrl": "http://www.gravatar.com/avatar/59102db8584fb0aec0c7832e6a2065ca.png"
-	, "occupation": "Senior Developer"
+  , "occupation": "Senior Developer"
+  }
+, { "irc": "rwaldron"
+  , "twitter": "rwaldron"
+  , "github": "rwldrn"
+  , "location": "Boston, MA"
+  , "name": "Rick Waldron"
+  , "birthday": "July 23, 1981"
+  , "imgUrl": "http://www.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437.png"
+  , "occupation": "JavaScript Evangelist"
   }
 ]
