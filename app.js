@@ -4,7 +4,9 @@
 var express = require( 'express' )
   , stylus = require( 'stylus' )
   , nib = require( 'nib' )
+  , gravatar = require( 'gravatar' )
   , app = module.exports = express.createServer()
+  , defaultImage = '/images/batman-for-facebook.jpg'
   , crew = JSON.parse( require( 'fs' ).readFileSync( __dirname + '/public/crew.json' ) ).sort( function( a, b ) {
       var a = a.name.toLowerCase()
         , b = b.name.toLowerCase()
@@ -26,6 +28,14 @@ function compile_stylus ( str, path ) {
     .use( nib() )
 }
 
+function photoFor ( user ) {
+  if ( user.email )
+    return gravatar.url( user.email, { r: 'x', s: '300', d: 'http://ot-crew.com' + defaultImage } )
+  else if ( user.imgUrl )
+    return user.imgUrl
+  else
+    return defaultImage
+}
 
 /*------------------------------------*\
     Config
@@ -57,7 +67,7 @@ app.get( '/', function( req, res ) {
   res.render( 'index',
     { title: '-ot crew'
     , crew: crew
-    , defaultImg: '/images/batman-for-facebook.jpg'
+    , photo_for: photoFor
     })
 })
 

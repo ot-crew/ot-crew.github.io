@@ -1,6 +1,6 @@
 li
   h3
-    a( href=(user.imgUrl || defaultImg) ): img( src=(user.imgUrl || defaultImg) )
+    a( href=photo_for( user ) ): img( src=photo_for( user ) )
     = user.name
 
   ul
