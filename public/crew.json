@@ -22,7 +22,7 @@
   , "location": "Toronto, Canada"
   , "name": "Gianni Chiappetta"
   , "birthday": "March 27, 1988"
-  , "imgUrl": "http://gravatar.com/avatar/4b0209ae3652cc5a7d53545e759fbe39?s=175"
+  , "email": "gianni@runlevel6.org"
   }
 
 , { "irc": "eddiemonge"
@@ -290,6 +290,7 @@
   , "birthday": "September 1, 1986"
   , "occupation": "Web Developer, Hall Marketing Communications"
   }
+
 , { "irc": "boaz"
   , "twitter": "boazsender"
   , "github": "boazsender"
@@ -299,6 +300,7 @@
   , "birthday": "December 28, 1985"
   , "occupation": "JavaScript Programmer"
   }
+
 , { "irc": "ben_alman"
   , "twitter": "cowboy"
   , "github": "cowboy"
@@ -308,6 +310,7 @@
   , "birthday": "November 10, 1975"
   , "occupation": "Musician, Photographer, Pluginizer"
   }
+
 , { "irc": "vladikoff"
   , "twitter": "vladikoff"
   , "github": "vladikoff"
@@ -317,6 +320,7 @@
   , "birthday": "July, 1988"
   , "occupation": "Developer"
   }
+
 , { "irc": "darcyclarke"
   , "twitter": "darcy_clarke"
   , "github": "darcyclarke"
@@ -326,6 +330,7 @@
   , "birthday": "June 26th, 1987"
   , "occupation": "Web Developer & Designer"
   }
+
 , { "irc": "wesbos"
   , "twitter": "wesbos"
   , "github": "wesbos"
@@ -335,6 +340,7 @@
   , "birthday": "February 18, 1988"
   , "occupation": "Web Developer & Designer"
   }
+
 , { "irc": "mekwall"
   , "twitter": "mekwall"
   , "github": "mekwall"
@@ -344,15 +350,16 @@
   , "birthday": "February 14, 1983"
   , "occupation": "IT Manager"
   }
+
 , { "irc": "fermion"
   , "twitter": "fermion"
   , "github": "fermion"
   , "location": "Boston, MA"
   , "name": "Rob Sterner"
   , "birthday": "June 6, 1978"
-  , "imgUrl": "http://www.gravatar.com/avatar/725d78780e24d930b9f3a910a10f71cb.png"
   , "email": "rob.sterner@gmail.com"
   }
+
 , { "irc": "nlogax"
   , "twitter": "ultror"
   , "github": "nlogax"
