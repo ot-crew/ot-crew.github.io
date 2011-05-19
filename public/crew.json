@@ -7,6 +7,16 @@
   , "imgUrl": "http://a1.twimg.com/profile_images/1158131746/41424_560729700_146_q.jpg"
   }
 
+, { "irc": "akahn"
+  , "twitter": "akahn"
+  , "github": "akahn"
+  , "location": "Fort Greene, Brooklyn, NY"
+  , "name": "Alex Kahn"
+  , "occupation": "Web Developer, Paperless Post"
+  , "birthday": "April 1, 1986"
+  , "imgUrl": "http://img.tweetimag.es/i/akahn_o"
+  }
+
 , { "irc": "miketaylr"
   , "twitter": "miketaylr"
   , "github": "miketaylr"
