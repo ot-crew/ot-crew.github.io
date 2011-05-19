@@ -158,11 +158,12 @@
   }
 
 , { "irc": "atula"
-  , "twitter": "autalpha"
+  , "twitter": "VuongN"
   , "github": "autalpha"
   , "location": "Boston, MA, USA"
   , "name": "Vuong Nguyen"
   , "occupation": "Web Developer"
+  , "imgUrl": "http://si1.twimg.com/profile_images/137679878/bug.png"
   }
 
 , { "irc": "Aamir"
