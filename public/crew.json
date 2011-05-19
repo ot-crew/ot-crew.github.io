@@ -36,16 +36,6 @@
   , "email": "gianni@runlevel6.org"
   }
 
-, { "irc": "eddiemonge"
-  , "twitter": "eddiemonge"
-  , "github": "eddiemonge"
-  , "location": "Martinez, California, USA"
-  , "name": "Eddie Monge"
-  , "imgUrl": "http://a1.twimg.com/profile_images/1250831839/Photo_on_2011-02-21_at_12.52__2.jpg"
-  , "birthday": "04/03/1983"
-  , "occupation": "Computer Guy"
-  }
-
 , { "irc": "benschwarz"
   , "twitter": "benschwarz"
   , "github": "benschwarz"
