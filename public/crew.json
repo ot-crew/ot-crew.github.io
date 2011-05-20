@@ -89,9 +89,10 @@
   , "github": "ehynds"
   , "name": "Eric Hynds"
   , "location": "Boston, MA"
-  , "occupation": "front-end developer"
+  , "occupation": "Front-end developer"
   , "birthday": "August 4, 1986"
-  , "imgUrl": "http://a2.twimg.com/profile_images/701241280/me-face.png"
+  , "imgUrl": "http://www.gravatar.com/avatar/57721d7c4df5a1e10e9442a79296956e.png"
+  , "email": "eric@hynds.net"
   }
 
 , { "irc": "JonathanNeal"
