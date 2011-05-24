@@ -420,4 +420,12 @@
   , "imgUrl": "http://www.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437.png"
   , "occupation": "JavaScript Evangelist"
   }
+, { "irc": "jaubourg"
+  , "twitter": "jaubourg"
+  , "location": "Brussels, Belgium"
+  , "name": "Julian Aubourg"
+  , "occupation": "LOLBAT, <a target='_blank' href='http://www.creative-area.net/'>Creative Area</a>"
+  , "birthday": "April 12, 1975"
+  , "imgUrl": "http://a0.twimg.com/profile_images/935212408/mmorpg2.png"
+  }
 ]
