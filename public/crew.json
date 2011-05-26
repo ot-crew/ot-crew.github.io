@@ -197,16 +197,6 @@
   , "imgUrl": "http://a2.twimg.com/profile_images/1039330777/aamir.png"
   }
 
-, { "irc": "seutje"
-  , "twitter": "seutje"
-  , "github": "seutje"
-  , "location": "Antwerp, BE"
-  , "name": "Steve De Jonghe"
-  , "occupation": "Senior Drupal Themer"
-  , "birthday": "July 8, 1986"
-  , "imgUrl": "http://seutje.be/icanhazjqueries/images/brilleke.jpg"
-  }
-
 , { "irc": "pifantastic"
   , "twitter": "AaronForsander"
   , "github": "pifantastic"
