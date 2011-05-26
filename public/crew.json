@@ -352,4 +352,13 @@
   , "birthday": "June 6, 1978"
   , "imgUrl": "http://www.gravatar.com/avatar/725d78780e24d930b9f3a910a10f71cb.png"
   }
+, { "irc": "imjoshdean"
+  , "twitter": "joshdean"
+  , "github": "imjoshdean"
+  , "location": "Milwaukee, WI"
+  , "name": "Josh Dean"
+  , "birthday": "October 23, 1986"
+  , "occupation": "Web Developer"
+  , "email": "jdean47@gmail.com"
+  }
 ]
