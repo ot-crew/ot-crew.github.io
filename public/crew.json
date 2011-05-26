@@ -429,4 +429,13 @@
   , "birthday": "April 12, 1975"
   , "imgUrl": "http://a0.twimg.com/profile_images/935212408/mmorpg2.png"
   }
+, { "irc": "imjoshdean"
+  , "twitter": "joshdean"
+  , "github": "imjoshdean"
+  , "location": "Milwaukee, WI"
+  , "name": "Josh Dean"
+  , "birthday": "October 23, 1986"
+  , "occupation": "Web Developer"
+  , "email": "jdean47@gmail.com"
+  }
 ]
