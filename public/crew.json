@@ -439,4 +439,12 @@
   , "occupation": "Web Developer"
   , "email": "jdean47@gmail.com"
   }
+, { "irc": "Wilto"
+  , "twitter": "wilto"
+  , "github": "wilto"
+  , "location": "Boston, MA"
+  , "name": "Mat Marquis"
+  , "occupation": "Custodial Engineer"
+  , "imgUrl": "http://a0.twimg.com/profile_images/1180090625/dwwiltos.png"
+  }
 ]
