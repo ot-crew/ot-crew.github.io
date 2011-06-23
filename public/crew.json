@@ -448,4 +448,10 @@
   , "occupation": "Custodial Engineer"
   , "imgUrl": "http://a2.twimg.com/profile_images/1402454427/wilto.png"
   }
+, { "irc": "wdw"
+  , "location": "England"
+  , "name": "W Gogan"
+  , "birthday": "Feb 1, 1984"
+  , "occupation": ""
+  }
 ]
