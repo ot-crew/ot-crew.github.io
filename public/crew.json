@@ -454,4 +454,11 @@
   , "birthday": "Feb 1, 1984"
   , "occupation": ""
   }
+, { "irc": "kswedberg"
+  , "location": "Grand Rapids, MI"
+  , "name": "Karl Swedberg"
+  , "birthday": "December 20, 1967"
+  , "occupation": "Web Developer"
+  , "imgURL": "https://si0.twimg.com/profile_images/1332566356/karl-201104.jpg"
+  }
 ]
