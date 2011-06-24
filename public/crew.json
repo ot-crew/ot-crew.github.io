@@ -463,4 +463,10 @@
   , "occupation": "Web Developer"
   , "imgURL": "https://si0.twimg.com/profile_images/1332566356/karl-201104.jpg"
   }
+, { "irc": "NoiseEee"
+  , "location": "Toronto, Canada"
+  , "name": "Joshua Malinsky"
+  , "birthday": "October 5, 1971"
+  , "occupation": "Web Developer"
+  }
 ]
