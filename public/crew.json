@@ -469,4 +469,13 @@
   , "birthday": "October 5, 1971"
   , "occupation": "Web Developer"
   }
+, { "irc": "peol"
+  , "location": "Lund, Sweden"
+  , "name": "Andrée Hansson"
+  , "twitter": "peolanha"
+  , "github": "peol"
+  , "birthday": "September 11, 1984"
+  , "occupation": "Front-end Developer/Consultant"
+  , "imgURL": "http://a3.twimg.com/profile_images/1299324629/169836_173113589397966_141219962587329_365360_1795881_o_reasonably_small.jpg"
+  }
 ]
