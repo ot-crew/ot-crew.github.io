@@ -468,6 +468,8 @@
   , "name": "Joshua Malinsky"
   , "birthday": "October 5, 1971"
   , "occupation": "Web Developer"
+  , "twitter": "SilverRocket"
+  , "email": "joshua@kidlunch.com"
   }
 , { "irc": "peol"
   , "location": "Lund, Sweden"
