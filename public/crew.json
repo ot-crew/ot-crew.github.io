@@ -58,9 +58,10 @@
 
 , { "irc": "Peter`"
   , "twitter": "beverloo"
+  , "github": "beverloo"
   , "location": "Amsterdam, the Netherlands"
   , "name": "Peter Beverloo"
-  , "occupation": "Freelance front-end engineer. Soon to be Noogler"
+  , "occupation": "Google Chrome, Software Engineer"
   , "birthday": "June 9, 1989"
   , "imgUrl": "http://a0.twimg.com/profile_images/1021016589/twitter_reasonably_small.jpg"
   }
