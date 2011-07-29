@@ -450,6 +450,7 @@
   , "name": "Mat Marquis"
   , "occupation": "Custodial Engineer"
   , "imgUrl": "http://a2.twimg.com/profile_images/1402454427/wilto.png"
+  , "numOfCarsHitBy": 2
   }
 , { "irc": "wdw"
   , "location": "England"
