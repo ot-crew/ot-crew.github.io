@@ -339,6 +339,7 @@
   , "imgUrl": "http://benalman.com/images/avatar/headshot_kangol_200.jpg"
   , "birthday": "November 10, 1975"
   , "occupation": "Musician, Photographer, Pluginizer"
+  , "numOfBikesHitBy": 1
   }
 
 , { "irc": "vladikoff"
