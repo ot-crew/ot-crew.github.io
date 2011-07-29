@@ -486,4 +486,15 @@
   , "occupation": "Front-end Developer"
   , "imgUrl": "http://a3.twimg.com/profile_images/1299324629/169836_173113589397966_141219962587329_365360_1795881_o_reasonably_small.jpg"
   }
+, { "irc": "louisremi"
+  , "location": "Paris, France"
+  , "name": "Louis-Rémi Babé"
+  , "twitter": "louis_remi"
+  , "github": "louisremi"
+  , "birthday": "July 23, 1986"
+  , "occupation": "Developer engagement"
+  , "imgUrl": "http://a0.twimg.com/profile_images/1101378665/louisremi_normal.png"
+  , "numOfCarsHitBy": 1
+  , "nameOfCat": "Céphée"
+  }
 ]
