@@ -220,6 +220,7 @@
   , "occupation": "Developer"
   , "birthday": "December 13, 1985"
   , "imgUrl": "http://a0.twimg.com/profile_images/1260567510/IMAG0005-1.jpg"
+  , "numOfCarsHitBy": 0
   }
 
 , { "irc": "SlexAxton"
