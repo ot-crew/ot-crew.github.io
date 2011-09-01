@@ -264,12 +264,13 @@
 , { "irc": "karbassi"
   , "twitter": "karbassi"
   , "github": "karbassi"
-  , "location": "Minneapolis, MN"
+  , "location": "Chicago, IL"
   , "name": "Ali Karbassi"
   , "occupation": "Interactive Developer"
   , "birthday": "May 6, 1986"
   , "imgUrl": "http://a1.twimg.com/profile_images/589432832/Eye-to-Eye-2_normal.jpg"
-  , "numOfBikesHitBy": 2
+  , "numOfBikesHitBy": 3
+  , "email": "ali@karbassi.com"
   }
 
 , { "irc": "danheberden"
