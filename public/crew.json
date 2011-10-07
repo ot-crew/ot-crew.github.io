@@ -507,4 +507,14 @@
   , "numOfCarsHitBy": 1
   , "nameOfCat": "Céphée"
   }
+, { "irc": "kborchers"
+  , "location": "Chicago, IL"
+  , "name": "Kris Borchers"
+  , "twitter": "k_borchers"
+  , "github": "kborchers"
+  , "birthday": "January 30, 1981"
+  , "occupation": "Developer"
+  , "imgUrl": "http://a1.twimg.com/profile_images/995666212/me.png"
+  , "numOfCarsHitBy": 1
+  }
 ]
