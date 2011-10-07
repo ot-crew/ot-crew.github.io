@@ -261,13 +261,14 @@
   , "imgUrl": "http://a1.twimg.com/profile_images/1320001442/ralph2square.jpg"
   }
 
-, { "irc": "serio"
+, { "irc": "smplstk"
   , "twitter": "simplestick"
   , "location": "Ottawa, CANADA"
   , "name": "Ricky Miller"
   , "occupation": "Front-end Developer"
   , "birthday": ""
   , "imgUrl": "http://a3.twimg.com/profile_images/1280724829/rawr.jpg"
+  , "website" : "http://simplestick.com/"
   }
 
 , { "irc": "karbassi"
