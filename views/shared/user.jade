@@ -27,4 +27,5 @@ li
       li.birthday Birthday: #{user.birthday}
       
     - if ( user.website )
-      li.website Website: #{user.website}
+      li.website Website: 
+        a( href="#{user.website}" ) #{user.website}
