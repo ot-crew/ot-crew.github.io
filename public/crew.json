@@ -518,4 +518,16 @@
   , "imgUrl": "http://a1.twimg.com/profile_images/995666212/me.png"
   , "numOfCarsHitBy": 1
   }
+, { "irc": "brianarn"
+  , "name": "Brian Arnold"
+  , "twitter": "brianarn"
+  , "github": "brianarn"
+  , "location": "Albuquerque, NM"
+  , "occupation": "Software Engineer, Lead Support / Training"
+  , "birthday": "February 1, 1979"
+  , "imgUrl": "http://www.randomthink.net/avatar_100.jpg"
+  , "website": "http://www.randomthink.net/"
+  , "numOfCarsHitBy": 5
+  , "petNames": ["Gryphon", "Lily"]
+  }
 ]
