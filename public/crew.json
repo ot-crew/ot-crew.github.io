@@ -530,4 +530,13 @@
   , "numOfCarsHitBy": 5
   , "petNames": ["Gryphon", "Lily"]
   }
+, { "irc": "garann"
+  , "name": "Garann Means"
+  , "twitter": "garannm"
+  , "github": "garann"
+  , "location": "Austin, TX"
+  , "occupation": "Sr. JavaScript Engineer"
+  , "birthday": "October 27, 1978"
+  , "imgUrl": "http://farm7.static.flickr.com/6016/6013138784_481503e0d4_o.jpg"
+  }
 ]
