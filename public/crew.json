@@ -257,9 +257,10 @@
   , "github": "ralphholzmann"
   , "location": "Fond du Lac, Wisconsin"
   , "name": "Ralph Holzmann"
-  , "occupation": "Software Engineer, GroupCard"
+  , "occupation": "JavaScript Developer, Jupiter JavaScript Consulting"
   , "birthday": "February 24, 1987"
-  , "imgUrl": "http://a1.twimg.com/profile_images/1320001442/ralph2square.jpg"
+  , "imgUrl": "https://secure.gravatar.com/avatar/a72c6399a0c8a75f31fc88c470e4a027?s=150"
+  , "numOfCarsHitBy": 1 // true story
   }
 
 , { "irc": "smplstk"
