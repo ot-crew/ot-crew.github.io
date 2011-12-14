@@ -260,7 +260,7 @@
   , "occupation": "JavaScript Developer, Jupiter JavaScript Consulting"
   , "birthday": "February 24, 1987"
   , "imgUrl": "https://secure.gravatar.com/avatar/a72c6399a0c8a75f31fc88c470e4a027?s=150"
-  , "numOfCarsHitBy": 1 // true story
+  , "numOfCarsHitBy": 1
   }
 
 , { "irc": "smplstk"

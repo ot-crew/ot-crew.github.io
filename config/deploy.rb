@@ -9,9 +9,15 @@ set :use_sudo,    false
 role :web, "192.168.10.10"                          # Your HTTP server, Apache/etc
 role :app, "192.168.10.10"                          # This may be the same as your `Web` server
 
+after :deploy, "deploy:npm"
+
 namespace :deploy do
-  task :restart, :roles => :app, :except => { :no_release => true } do
+  task :restart, roles: :app, except: { :no_release => true } do
     run "forever restart 0"
+  end
+
+  task :npm, roles: :app, except: { :no_release => true } do
+    run "cd #{release_path}; npm install"
   end
 end
 

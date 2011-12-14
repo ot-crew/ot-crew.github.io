@@ -1,0 +1,12 @@
+{ "name": "ot-crew"
+, "version": "0.0.1"
+, "engines": ["node >= 0.4.0"]
+, "main": "app.js"
+, "dependencies":
+  { "jade":     ">= 0"
+  , "stylus":   ">= 0"
+  , "nib":      ">= 0"
+  , "express":  ">= 0"
+  , "gravatar": ">= 0"
+  }
+}
