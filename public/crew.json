@@ -543,4 +543,14 @@
   , "birthday": "October 27, 1978"
   , "imgUrl": "http://farm7.static.flickr.com/6016/6013138784_481503e0d4_o.jpg"
   }
+, { "irc": "rpflo"
+  , "name": "Ryan Florence"
+  , "twitter": "ryanflorence"
+  , "github": "rpflorence"
+  , "location": "West Jordan, UT"
+  , "occupation": "Software Engineer"
+  , "birthday": "May 07, 1981"
+  , "imgUrl": "http://www.gravatar.com/avatar/749001c9fe6927c4b069a45c2a3d68f7?s=200"
+  , "offspring": 2
+  }
 ]
