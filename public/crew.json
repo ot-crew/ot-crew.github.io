@@ -553,4 +553,12 @@
   , "imgUrl": "http://www.gravatar.com/avatar/749001c9fe6927c4b069a45c2a3d68f7?s=200"
   , "offspring": 2
   }
+, { "irc": "bot-t"
+  , "name": "bot-t"
+  , "location": "Sentient, but living in the machine locale"
+  , "occupation": "IRC Bot"
+  , "birthday": "Jan 01, 1970"
+  , "imgUrl": "http://farm7.staticflickr.com/6230/6217074365_b23b59a3fd_z.jpg"
+  , "numOfCarsHitBy": 3
+  }
 ]
