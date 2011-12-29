@@ -561,4 +561,12 @@
   , "imgUrl": "http://farm7.staticflickr.com/6230/6217074365_b23b59a3fd_z.jpg"
   , "numOfCarsHitBy": 3
   }
+, { "irc": "voodootikigod"
+  , "name": "Chris Williams"
+  , "location": "Reston, VA"
+  , "occupation": "Willy Wonka"
+  , "birthday": "Mar 06, 1981"
+  , "imgUrl": "http://a2.twimg.com/profile_images/1218709088/Screen_shot_2011-01-17_at_5.png"
+  , "<3s": "Long walks on the beach"
+  }
 ]
