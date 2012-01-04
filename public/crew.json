@@ -569,7 +569,7 @@
   , "imgUrl": "http://a2.twimg.com/profile_images/1218709088/Screen_shot_2011-01-17_at_5.png"
   , "<3s": "Long walks on the beach"
   }
-, { "irc": "rmurphey",
+, { "irc": "rmurphey"
   , "name": "Rebecca Murphey"
   , "location": "Durham, NC"
   , "occupation": "Lead JS Architect at Toura"
@@ -577,5 +577,17 @@
   , "imgUrl": "http://dl.dropbox.com/u/2916642/rmurphey-berlin.jpg"
   , "<3s": "Melissa"
   , "github": "rmurphey"
+  }
+, { "irc": "yonkeltron"
+  , "name": "Jonathan E. Magen"
+  , "location": "New Haven, CT"
+  , "twitter": "yonkeltron"
+  , "github": "yonkeltron"
+  , "occupation": "Directory of Core Engineering, Continuity Control"
+  , "birthday": "Oct 03, 1986"
+  , "imgUrl": "http://twimg0-a.akamaihd.net/profile_images/62166233/j-avatar.png"
+  , "website": "http://yonkeltron.com"
+  , "<3s": "Hummus, Star Trek, Whiskey"
+  , "fucksGiven": 0
   }
 ]
