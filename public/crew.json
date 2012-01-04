@@ -374,6 +374,7 @@
   , "imgUrl": "https://si3.twimg.com/profile_images/1180176758/dddd.jpg"
   , "birthday": "June 26th, 1987"
   , "occupation": "Web Developer & Designer"
+  , "website" : "http://darcyclarke.me/"
   }
 
 , { "irc": "wesbos"
@@ -384,6 +385,7 @@
   , "imgUrl": "https://si1.twimg.com/profile_images/1117436107/WesBosTwitter.jpg"
   , "birthday": "February 18, 1988"
   , "occupation": "Web Developer & Designer"
+  , "website" : "http://www.wesbos.com"
   }
 
 , { "irc": "mekwall"
