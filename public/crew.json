@@ -590,4 +590,13 @@
   , "<3s": "Hummus, Star Trek, Whiskey"
   , "fucksGiven": 0
   }
+, { "irc": "jedimind"
+  , "twitter": "pud_ca"
+  , "github": "pudly"
+  , "location": "Toronto, ON"
+  , "name": "Andrej Simeonov"
+  , "occupation": "Web Ninja"
+  , "birthday": "December 17, 1981"
+  , "imgUrl": "http://a2.twimg.com/profile_images/1210325040/twitter-128.png"
+  }  
 ]
