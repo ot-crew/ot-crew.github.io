@@ -569,4 +569,14 @@
   , "imgUrl": "http://a2.twimg.com/profile_images/1218709088/Screen_shot_2011-01-17_at_5.png"
   , "<3s": "Long walks on the beach"
   }
+, { "irc": "rmurphey",
+  , "name": "Rebecca Murphey"
+  , "location": "Durham, NC"
+  , "occupation": "Lead JS Architect at Toura"
+  , "birthday": "Jan 04, 1977"
+  , "imgUrl": "http://dl.dropbox.com/u/2916642/rmurphey-berlin.jpg"
+  , "<3s": "Melissa"
+  , "github": "rmurphey"
+  }
+}
 ]
