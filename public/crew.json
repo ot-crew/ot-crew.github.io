@@ -164,7 +164,7 @@
   , "occupation": "Developer"
   , "imgUrl": "http://a2.twimg.com/profile_images/1266952523/200551_704483756985_24408698_37833741_1990632_n.jpg"
   }
-  
+
 , { "irc": "iros"
   , "twitter": "ireneros"
   , "github": "iros"
@@ -190,7 +190,7 @@
   , "name": "Dhaval Trivedi"
   , "occupation": "Technical Manager, <a href='http://sourcebits.com' target='_blank'>Sourcebits</a>"
   , "birthday": "May 30, 1983"
-  , "imgUrl": "http://a1.twimg.com/profile_images/1138558050/dhaval.jpg"  
+  , "imgUrl": "http://a1.twimg.com/profile_images/1138558050/dhaval.jpg"
   }
 
 , { "irc": "atula"
@@ -600,5 +600,14 @@
   , "occupation": "Web Ninja"
   , "birthday": "December 17, 1981"
   , "imgUrl": "http://a2.twimg.com/profile_images/1210325040/twitter-128.png"
-  }  
+  }
+, { "irc": "maryrosecook"
+  , "twitter": "maryrosecook"
+  , "github": "maryrosecook"
+  , "location": "London, UK"
+  , "name": "Mary Rose Cook"
+  , "occupation": "Programmer"
+  , "birthday": "February 12, 1981"
+  , "imgUrl": "http://a0.twimg.com/profile_images/1344162768/la.jpg"
+  }
 ]
