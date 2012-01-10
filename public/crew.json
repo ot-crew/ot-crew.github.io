@@ -612,4 +612,13 @@
   , "birthday": "February 12, 1981"
   , "imgUrl": "http://a0.twimg.com/profile_images/1344162768/la.jpg"
   }
+, { "irc": "agraul"
+  , "twitter": "alexgraul"
+  , "github": "alexgraul"
+  , "location": "London, UK"
+  , "name": "Alex Graul"
+  , "occupation": "Developer"
+  , "birthday": "January 22, 1985"
+  , "imgUrl": "http://a2.twimg.com/profile_images/1123495944/IMG_0119.JPG"
+  }
 ]
