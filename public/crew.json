@@ -79,6 +79,14 @@
   , "github": "paulirish"
   }
 
+, { "irc": "snover"
+  , "twitter": "zetafleet"
+  , "location": "Minneapolis, MN"
+  , "name": "Colin Snover"
+  , "occupation": "JavaScript Engineer, SitePen Inc."
+  , "github": "csnover"
+}
+
 , { "irc": "jdalton"
   , "twitter": "jdalton"
   , "location": "Lewis Center, OH"
