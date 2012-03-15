@@ -620,4 +620,13 @@
   , "birthday": "January 22, 1985"
   , "imgUrl": "http://a2.twimg.com/profile_images/1123495944/IMG_0119.JPG"
   }
+, { "irc": "savetheclocktowr"
+  , "twitter": "andrewdupont"
+  , "github": "savetheclocktower"
+  , "location": "Austin, TX, USA"
+  , "name": "Andrew Dupont"
+  , "occupation": "(fuck if I know)"
+  , "birthday": "October 4, 1982"
+  , "imgUrl": "https://si0.twimg.com/profile_images/535966628/2581_837155601380_7913428_50886446_6131983_n.jpg"
+  }
 ]
