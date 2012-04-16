@@ -638,4 +638,12 @@
   , "birthday": "October 27, 1982"
   , "imgUrl": "https://twimg0-a.akamaihd.net/profile_images/1640691093/Photo_on_2011-11-15_at_11.21.jpg"
   }
+, { "irc": "johnkpaul"
+  , "twitter": "johnkpaul"
+  , "github": "johnkpaul"
+  , "location": "NYC, NY, USA"
+  , "name": "John K. Paul"
+  , "imgUrl": "http://1.gravatar.com/avatar/eee585a10c1d7c4f1f30e28077ffa720?size=420"
+  , "website": "http://johnkpaul.tumblr.com"
+  }
 ]
