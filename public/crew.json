@@ -154,6 +154,15 @@
   , "imgUrl": "http://a1.twimg.com/profile_images/1320031614/twitpic_beer.png"
   }
 
+, { "irc": "chee"
+  , "twitter": "cheedear"
+  , "github": "chee"
+  , "location": "internet"
+  , "name": "chee rabbits"
+  , "birthday": "March 2, 1988"
+  , "imgUrl": "http://snaek.org/img/MYFACE.jpg"
+  }
+
 , { "irc": "tbranyen"
   , "twitter": "tbranyen"
   , "github": "tbranyen"
