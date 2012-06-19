@@ -272,14 +272,13 @@
   , "numOfCarsHitBy": 1
   }
 
-, { "irc": "smplstk"
-  , "twitter": "smplstk"
+, { "irc": "rmill"
+  , "twitter": "rmill"
   , "location": "Ottawa, CANADA"
-  , "name": "Rick Miller"
+  , "name": "Ricky Miller"
   , "occupation": "Front-end Developer"
   , "birthday": "November 5, 1981"
   , "imgUrl": "http://a2.twimg.com/profile_images/1471755186/clean.jpg"
-  , "website" : "http://smplstk.com/"
   }
 
 , { "irc": "karbassi"
