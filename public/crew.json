@@ -664,4 +664,12 @@
   , "imgUrl": "http://bjb.io/hi.jpg"
   , "website": "http://bjb.io"
   }
+, { "irc": "fat"
+  , "twitter": "fat"
+  , "github": "fat"
+  , "location": "San Francisco, CA"
+  , "name": "Fat"
+  , "imgUrl": "https://twimg0-a.akamaihd.net/profile_images/2198051300/face.jpg"
+  , "website": "http://wordsbyf.at"
+  }
 ]
