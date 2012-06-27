@@ -672,4 +672,12 @@
   , "imgUrl": "https://twimg0-a.akamaihd.net/profile_images/2198051300/face.jpg"
   , "website": "http://wordsbyf.at"
   }
+, { "irc": "necolas"
+  , "twitter": "necolas"
+  , "github": "necolas"
+  , "location": "London, UK"
+  , "name": "Nicolas Gallagher"
+  , "imgUrl": "https://si0.twimg.com/profile_images/1578798555/necolas.jpg"
+  , "website": "http://nicolasgallagher.com"
+  }
 ]
