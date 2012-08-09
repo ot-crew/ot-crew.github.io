@@ -274,6 +274,7 @@
 
 , { "irc": "rmill"
   , "twitter": "rmill"
+  , "github" : "rmillr"
   , "location": "Ottawa, CANADA"
   , "name": "Ricky Miller"
   , "occupation": "Front-end Developer"
