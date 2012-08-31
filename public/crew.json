@@ -682,4 +682,14 @@
   , "imgUrl": "https://si0.twimg.com/profile_images/1578798555/necolas.jpg"
   , "website": "http://nicolasgallagher.com"
   }
+, { "irc": "sindresorhus"
+  , "twitter": "sindresorhus"
+  , "github": "sindresorhus"
+  , "location": "Lillehammer, Norway"
+  , "name": "Sindre Sorhus"
+  , "occupation": "JavaScript developer & Open Source addict"
+  , "imgUrl": "https://si0.twimg.com/profile_images/1612265539/304370_10150765342675029_833515028_20487612_6975164_n_reasonably_small.jpg"
+  , "birthday": "March 4, 1989"
+  , "website": "http://sindresorhus.com"
+  }
 ]
