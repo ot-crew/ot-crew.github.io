@@ -29,6 +29,15 @@
   , "rofl": "copter"
   }
 
+, { "irc": "mikesherov"
+  , "twitter": "mikesherov"
+  , "github": "mikesherov"
+  , "location": "New York, NY"
+  , "name": "Mike Sherov"
+  , "occupation": "Lead Developer, SNAP Interactive"
+  , "birthday": "November 9, 1981"
+  }
+
 , { "irc": "gf3"
   , "twitter": "gf3"
   , "github": "gf3"
