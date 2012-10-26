@@ -6,6 +6,7 @@ var express = require( 'express' )
   , nib = require( 'nib' )
   , gravatar = require( 'gravatar' )
   , app = module.exports = express.createServer()
+  // , app = module.exports = express()
   , defaultImage = '/images/batman-for-facebook.jpg'
   , crew = JSON.parse( require( 'fs' ).readFileSync( __dirname + '/public/crew.json' ) ).sort( function( a, b ) {
       var a = a.name.toLowerCase()
@@ -74,6 +75,11 @@ app.get( '/', function( req, res ) {
 /*------------------------------------*\
     Listen!
 \*------------------------------------*/
-if ( ! module.parent )
-  app.listen( 3000 ) && console.log( "Express server listening on port %d", app.address().port )
+if ( ! module.parent ) {	
+  // app.listen( 3000 ) && console.log( "Express server listening on port %d", app.address().port )
+	app.listen(80, function () {
+	  // console.log( "Express server listening on port %d", app.address().port )
+	  console.log( "Express server listening on port");
+	});
+}
 

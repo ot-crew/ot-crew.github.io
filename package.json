@@ -1,8 +1,8 @@
 {
   "name": "ot-crew",
-  "version": "0.0.1-7",
+  "version": "0.0.1-29",
   "engines": [
-    "node >= 0.4.0"
+    "node <= 0.6.19"
   ],
   "domains": [
     "ot-crew.com",
@@ -13,7 +13,7 @@
     "jade": ">= 0",
     "stylus": ">= 0",
     "nib": ">= 0",
-    "express": ">= 0",
+    "express": "<= 2.1.x",
     "gravatar": ">= 0"
   },
   "subdomain": "ot-crew",
