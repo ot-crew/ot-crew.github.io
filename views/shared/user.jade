@@ -3,7 +3,7 @@ li
     a( href=photo_for( user ) ): img( src=photo_for( user ) )
     = user.name
 
-  ul
+  ul( id=user.irc )
     - if ( user.irc )
       li.irc IRC nick: #{user.irc}
 
