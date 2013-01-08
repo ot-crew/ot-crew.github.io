@@ -131,9 +131,9 @@
   , "twitter": "Brodingo"
   , "location": "Austin, TX"
   , "name": "Brody Kwiatkowski"
-  , "occupation": "Web Developer, <a target='_blank' href='http://aglimmerofhope.org'>A Glimmer Of Hope Foundation</a>"
   , "birthday": "May 8, 1987"
-  , "imgUrl": "http://a1.twimg.com/profile_images/1291815674/Photo_1.jpg"
+  , "imgUrl": "http://brodingo.com/img/b.jpg"
+  , "website": "http://brodingo.com"
   }
 
 , { "irc": "nimbupani"
