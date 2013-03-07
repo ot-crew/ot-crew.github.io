@@ -712,4 +712,12 @@
   , "birthday": "November 9"
   , "imgUrl": "https://twimg0-a.akamaihd.net/profile_images/1640880060/Team_Ryan_normal.jpg"
   }
+, { "irc": "shanejonas"
+  , "twitter": "shanejonas"
+  , "github": "shanejonas"
+  , "location": "Toronto, Ontario"
+  , "name": "Shane Jonas"
+  , "birthday": "August 28, 1988"
+  , "imgUrl": "https://si0.twimg.com/profile_images/3278175804/df535ccecd1f6067a28ce988a9951f99_bigger.jpeg"
+  }
 ]
