@@ -720,4 +720,13 @@
   , "birthday": "August 28, 1988"
   , "imgUrl": "https://si0.twimg.com/profile_images/3278175804/df535ccecd1f6067a28ce988a9951f99_bigger.jpeg"
   }
+, { "irc": "shama"
+  , "twitter": "shamakry"
+  , "github": "shama"
+  , "location": "Napa, CA"
+  , "name": "Kyle Robinson Young"
+  , "birthday": "August 22, 1982"
+  , "website": "http://dontkry.com"
+  , "imgUrl": "https://si0.twimg.com/profile_images/2955524678/71d407332675eab6b3de0b0e50829fad.jpeg"
+  }
 ]
