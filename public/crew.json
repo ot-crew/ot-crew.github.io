@@ -1,7 +1,7 @@
 [ { "irc": "gnarf"
-  , "twitter": "gnarf37"
-  , "github": "gnarf37"
-  , "location": "Rockford, IL"
+  , "twitter": "gnarf"
+  , "github": "gnarf"
+  , "location": "Boston, MA"
   , "name": "Corey Frang"
   , "birthday": "27 May, 1980"
   , "imgUrl": "http://a1.twimg.com/profile_images/1158131746/41424_560729700_146_q.jpg"
@@ -728,5 +728,15 @@
   , "birthday": "August 22, 1982"
   , "website": "http://dontkry.com"
   , "imgUrl": "https://si0.twimg.com/profile_images/2955524678/71d407332675eab6b3de0b0e50829fad.jpeg"
+  }
+, { "irc": "s5fs"
+  , "twitter": "s5fs"
+  , "github": "aulvi"
+  , "location": "Portland, OR"
+  , "name": "Adam Ulvi"
+  , "occupation": "Software Developer"
+  , "birthday": "November 19, 1979"
+  , "website": "http://pokemedia.com"
+  , "imgUrl": "https://si0.twimg.com/profile_images/3591503511/001708b16c4b57e579f37bde492eee95_normal.png"
   }
 ]
