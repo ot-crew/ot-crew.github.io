@@ -729,4 +729,14 @@
   , "website": "http://dontkry.com"
   , "imgUrl": "https://si0.twimg.com/profile_images/2955524678/71d407332675eab6b3de0b0e50829fad.jpeg"
   }
+, { "irc": "s5fs"
+  , "twitter": "s5fs"
+  , "github": "aulvi"
+  , "location": "Portland, OR"
+  , "name": "Adam Ulvi"
+  , "occupation": "Software Developer"
+  , "birthday": "November 19"
+  , "website": "http://pokemedia.com"
+  , "imgUrl": "https://si0.twimg.com/profile_images/3591503511/001708b16c4b57e579f37bde492eee95_normal.png"
+  }
 ]
