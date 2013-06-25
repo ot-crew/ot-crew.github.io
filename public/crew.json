@@ -739,4 +739,13 @@
   , "website": "http://pokemedia.com"
   , "imgUrl": "https://si0.twimg.com/profile_images/3591503511/001708b16c4b57e579f37bde492eee95_normal.png"
   }
+, { "irc": "buritica"
+  , "twitter": "buritica"
+  , "github": "buritica"
+  , "location": "New York, NY"
+  , "name": "Juan Pablo Buritica"
+  , "occupation": "Software Developer"
+  , "birthday": "February 23, 1984"
+  , "imgUrl": "https://si0.twimg.com/profile_images/2308399096/v7lo4r0xj20pxuvxvno3_normal.jpeg"
+  }
 ]
