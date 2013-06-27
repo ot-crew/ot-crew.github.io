@@ -27,8 +27,5 @@
     .delegate( 'h3 img', 'mouseleave', function(){
       tooltip.stop( true, true ).fadeOut()
     })
-    twttr.anywhere(function(T) {
-      T.hovercards();
-    });
 
 })( this, this.document, jQuery )

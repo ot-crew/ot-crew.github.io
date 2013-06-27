@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ot-crew</title>
+  <link rel="stylesheet" href="public/stylesheets/normalize.css">
+  <link rel="stylesheet" href="public/stylesheets/style.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Cabin+Sketch:bold|Ubuntu|Cabin">
+</head>
+<body ng-app="crew" ng-controller="CrewCtrl">
+  <header>
+    <h1>-ot!</h1>
+    <p>We are {{crew.length}} strong!</p>
+    <input type="text" ng-model="crewSearch" class="crewSearch">
+  </header>
+  <ul id="crew">      
+    <li ng-repeat="user in crew | filter:crewSearch" id="{{user.irc}}">
+      <h3>
+        <img src="{{photo_for(user)}}">
+        {{user.name}}
+      </h3>
+      <ul>
+        <li class="irc" ng-show="user.irc">IRC nick: {{user.irc}}</li>
+        <li class="twitter" ng-show="user.twitter">
+          Twitter:
+          <a href="http://twitter.com/{{user.twitter}}">@{{user.twitter}}</a>
+        </li>
+        <li class="github" ng-show="user.github">
+          GitHub:
+          <a href="http://github.com/{{user.github}}">{{user.github}}</a>
+        </li>
+        <li class="location" ng-show="user.location">
+          <a href="http://maps.google.com/maps?&amp;q={{user.coords || user.location}}" title="Show it on a big map">
+            <img src="http://maps.googleapis.com/maps/api/staticmap?center={{user.location}}&zoom=11&size=200x200&sensor=false">
+          </a>
+        </li>
+        <li class="occupation" ng-show="user.occupation">Occupation: {{user.occupation}}</li>
+        <li class="birthday" ng-show="user.birthday">Birthday: {{user.birthday}}</li>
+        <li class="website" ng-show="user.website">
+          Website:
+          <a href="{{user.website}}">{{user.website}}</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.js"></script>
+  <script src="public/javascripts/sex.js"></script>
+  <script src="public/javascripts/md5.js"></script>
+  <script>
+    var crew = angular.module('crew',[]);
+
+    function CrewCtrl($scope, $http) {
+        $scope.data = {
+          hello : "Hey there"
+        }
+        $scope.photo_for = function(user) {
+          if (user.imgUrl) {
+            return user.imgUrl;
+          }
+          else if (user.email) {
+            return "http://gravatar.com/avatar/"+MD5(user.email);
+          }
+          else {
+            return "public/images/batman-for-facebook.jpg";
+          }
+        }
+        
+        $http.get('public/crew.json').then(function(res){
+          $scope.crew = res.data;
+        });
+
+    }
+  </script>
+</body>
+</html>
