@@ -13,6 +13,8 @@ body
   background-attachment: fixed
   color: #FFF
   text-shadow: 1px 1px 2px rgba( 0, 0, 0, .8 )
+  float: left
+  width:100%
 
 h1
   font-family: 'Cabin Sketch'
@@ -39,13 +41,15 @@ a
 // Crew list
 #crew
   margin-bottom: 20px
-
+  width:1160px
+  margin:0 auto
   > li
     position: relative
     display: block
-    margin: 20px auto
+    float: left
+    margin: 20px
     padding: 20px
-    width: 600px
+    width: 500px
     min-height: 155px
     vertical-align: top
     border-radius: 4px
@@ -73,8 +77,6 @@ a
       margin-left: 0
 
       li
-        width: 300px
-
         &.location
           img
             position: absolute
@@ -91,3 +93,28 @@ a
   border-radius: 10px
   display: none
 
+.crewSearch
+  margin: 0 auto;
+  width: 620px;
+  display: block;
+  padding: 10px;
+  font-size: 25px;
+  background: rgba(0, 0, 0, 0);
+  border: 0;
+  box-shadow: inset 0 0 10px #222;
+  margin-top: 20px
+  color:white
+  outline:0;
+
+
+@media all and (max-width:1160px)
+  * 
+    -moz-box-sizing: border-box
+    -webkit-box-sizing: border-box
+    box-sizing: border-box
+  #crew 
+    width: 100%
+    margin: 0 auto
+    li
+      width:100%;
+      margin: 0 auto
