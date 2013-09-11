@@ -163,15 +163,6 @@
   , "imgUrl": "http://a1.twimg.com/profile_images/1320031614/twitpic_beer.png"
   }
 
-, { "irc": "chee"
-  , "twitter": "cheedear"
-  , "github": "chee"
-  , "location": "internet"
-  , "name": "chee rabbits"
-  , "birthday": "March 2, 1988"
-  , "imgUrl": "http://snaek.org/img/MYFACE.jpg"
-  }
-
 , { "irc": "tbranyen"
   , "twitter": "tbranyen"
   , "github": "tbranyen"
@@ -493,12 +484,6 @@
   , "transitOpinions": "http://dwhswoatmbta.com/"
   , "numOfCarsHitBy": 2
   }
-, { "irc": "wdw"
-  , "location": "England"
-  , "name": "W Gogan"
-  , "birthday": "Feb 1, 1984"
-  , "occupation": ""
-  }
 , { "irc": "kswedberg"
   , "location": "Grand Rapids, MI"
   , "name": "Karl Swedberg"
@@ -623,24 +608,6 @@
   , "birthday": "December 17, 1981"
   , "imgUrl": "http://a2.twimg.com/profile_images/1210325040/twitter-128.png"
   }
-, { "irc": "maryrosecook"
-  , "twitter": "maryrosecook"
-  , "github": "maryrosecook"
-  , "location": "London, UK"
-  , "name": "Mary Rose Cook"
-  , "occupation": "Programmer"
-  , "birthday": "February 12, 1981"
-  , "imgUrl": "http://a0.twimg.com/profile_images/1344162768/la.jpg"
-  }
-, { "irc": "agraul"
-  , "twitter": "alexgraul"
-  , "github": "alexgraul"
-  , "location": "London, UK"
-  , "name": "Alex Graul"
-  , "occupation": "Developer"
-  , "birthday": "January 22, 1985"
-  , "imgUrl": "http://a2.twimg.com/profile_images/1123495944/IMG_0119.JPG"
-  }
 , { "irc": "savetheclocktowr"
   , "twitter": "andrewdupont"
   , "github": "savetheclocktower"
@@ -676,14 +643,6 @@
   , "birthday": "August 13, 1985"
   , "imgUrl": "http://bjb.io/hi.jpg"
   , "website": "http://bjb.io"
-  }
-, { "irc": "fat"
-  , "twitter": "fat"
-  , "github": "fat"
-  , "location": "San Francisco, CA"
-  , "name": "Fat"
-  , "imgUrl": "https://twimg0-a.akamaihd.net/profile_images/2198051300/face.jpg"
-  , "website": "http://wordsbyf.at"
   }
 , { "irc": "necolas"
   , "twitter": "necolas"
