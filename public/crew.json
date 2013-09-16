@@ -708,4 +708,13 @@
   , "birthday": "February 23, 1984"
   , "imgUrl": "https://si0.twimg.com/profile_images/2308399096/v7lo4r0xj20pxuvxvno3_normal.jpeg"
   }
+, { "irc": "jennmoneydollars"
+  , "twitter": "jennschiffer"
+  , "github": "jennschiffer"
+  , "location": "Montclair, NJ"
+  , "name": "Jenn Schiffer"
+  , "occupation": "Senior Front-end Dev @ NBA"
+  , "birthday": "February 11, 1985"
+  , "imgUrl": "http://madeby.jennschiffer.com/content/1.about/me9.jpg"
+  }
 ]
