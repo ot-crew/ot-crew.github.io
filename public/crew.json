@@ -601,13 +601,14 @@
   , "fucksGiven": 0
   }
 , { "irc": "jedimind"
-  , "twitter": "pud_ca"
+  , "twitter": "canapud"
   , "github": "pudly"
   , "location": "Toronto, Ontario"
   , "name": "Andrej Simeonov"
-  , "occupation": "Web Ninja"
+  , "occupation": "Front-end snob"
   , "birthday": "December 17, 1981"
-  , "imgUrl": "http://a2.twimg.com/profile_images/1210325040/twitter-128.png"
+  , "imgUrl": "http://www.pud.ca/me.jpg"
+  , "website": "http://www.pud.ca"
   }
 , { "irc": "savetheclocktowr"
   , "twitter": "andrewdupont"
