@@ -708,4 +708,14 @@
   , "birthday": "February 23, 1984"
   , "imgUrl": "https://si0.twimg.com/profile_images/2308399096/v7lo4r0xj20pxuvxvno3_normal.jpeg"
   }
+, { "irc": "robashton"
+  , "twitter": "robashton"
+  , "github": "robashton"
+  , "location": "London"
+  , "name": "Rob Ashton"
+  , "occupation": "Software Developer"
+  , "birthday": "January 01, 1970"
+  , "imgUrl": "https://si0.twimg.com/profile_images/2934937216/7535244315f48ac9dcaa5654a5350282.jpeg"
+  , "website": "http://codeofrob.com"
+  }
 ]
