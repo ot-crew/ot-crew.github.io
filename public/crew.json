@@ -718,4 +718,13 @@
   , "birthday": "February 11, 1985"
   , "imgUrl": "http://madeby.jennschiffer.com/content/1.about/me9.jpg"
   }
+, { "irc": "lawnsea"
+  , "twitter": "jennschiffer"
+  , "github": "jennschiffer"
+  , "location": "Montclair, NJ"
+  , "name": "Jenn Schiffer"
+  , "occupation": "Senior Front-end Dev @ NBA"
+  , "birthday": "February 11, 1985"
+  , "imgUrl": "http://madeby.jennschiffer.com/content/1.about/me9.jpg"
+  }
 ]
