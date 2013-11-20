@@ -31,7 +31,7 @@
         </li>
         <li class="location" ng-show="user.location">
           <a href="http://maps.google.com/maps?&amp;q={{user.coords || user.location}}" title="Show it on a big map">
-            <img src="http://maps.googleapis.com/maps/api/staticmap?center={{user.location}}&zoom=11&size=200x200&sensor=false">
+            <img src="http://maps.google.com/maps/api/staticmap?markers=location:+{{user.location}}&size=200x200&sensor=false" width="200" height="200">
           </a>
         </li>
         <li class="occupation" ng-show="user.occupation">Occupation: {{user.occupation}}</li>
