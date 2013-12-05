@@ -728,4 +728,13 @@
   , "birthday": "October 2, 1979"
   , "imgUrl": "https://si0.twimg.com/profile_images/3738757124/ea1edf46078403202ef2f5c5a2fd00a8.jpeg"
   }
+, { "irc": "clamstar"
+  , "twitter": "rx"
+  , "github": "rixth"
+  , "location": "New York City, NY"
+  , "name": "Thomas Rix"
+  , "occupation": "Senior Software Engineer @ Twitter"
+  , "birthday": "November 3, 1980s"
+  , "imgUrl": "https://pbs.twimg.com/profile_images/3244473517/780db4c2fb3d95331d0174b8bbd1b7fa.jpeg"
+  }
 ]
