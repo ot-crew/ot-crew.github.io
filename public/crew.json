@@ -748,4 +748,13 @@
   , "birthday": "February 23, 1984"
   , "imgUrl": "https://si0.twimg.com/profile_images/2308399096/v7lo4r0xj20pxuvxvno3_normal.jpeg"
   }
+, { "irc": "aaronj1335"
+  , "twitter": "aaronj1335"
+  , "github": "aaronj1335"
+  , "location": "Austin, TX"
+  , "name": "Aaron Stacy"
+  , "occupation": "enterprise software solutioneer, cloud scale"
+  , "birthday": "May 11, 1985"
+  , "imgUrl": "https://pbs.twimg.com/profile_images/3281266042/5069b845017701c465760d25ba54b83c.jpeg"
+  }
 ]
