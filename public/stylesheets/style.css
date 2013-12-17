@@ -2,6 +2,15 @@ html {
   height: 100%;
   background-color: #444;
 }
+*,
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
 body {
   font-family: 'Cabin', arial, serif;
   margin: 20px 0;
@@ -67,6 +76,8 @@ a:hover {
   -o-transition: all 0.8s ease-out;
   -ms-transition: all 0.8s ease-out;
   transition: all 0.8s ease-out;
+  height: 250px;
+  padding-right: 220px;
 }
 #crew > li:hover {
   background-color: rgba(255,255,255,0.05);
