@@ -1,157 +1,178 @@
 html {
-  height: 100%;
-  background-color: #444;
+    height: 100%;
+    background-color: #444;
 }
+
 *,
 *:before,
 *:after {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-body {
-  font-family: 'Cabin', arial, serif;
-  margin: 20px 0;
-  background-color: #444;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #444), color-stop(1, #222));
-  background-image: -webkit-linear-gradient(top, #444 0, #222 100%);
-  background-image: -moz-linear-gradient(top, #444 0, #222 100%);
-  background-image: -o-linear-gradient(top, #444 0, #222 100%);
-  background-image: -ms-linear-gradient(top, #444 0, #222 100%);
-  background-image: linear-gradient(top, #444 0, #222 100%);
-  background-attachment: fixed;
-  color: #fff;
-  text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
-  float: left;
-  width: 100%;
-}
-h1 {
-  font-family: 'Cabin Sketch';
-  padding-bottom: 10px;
-  margin-bottom: 10px;
-  font-size: 72px;
-  text-align: center;
-  text-shadow: 0 1px 0 #ccc, 0 2px 0 #bbb, 0 3px 0 #aaa, 0 4px 0 #333, 0 6px 1px rgba(0,0,0,0.1), 0 0 5px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.3), 0 3px 5px rgba(0,0,0,0.2), 0 5px 10px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.2), 0 20px 20px rgba(0,0,0,0.15);
-}
-h1 + p {
-  text-align: center;
-}
-ul {
-  list-style: none;
-}
-a {
-  color: #3af;
-  -webkit-transition: all 0.3s ease-out;
-  -moz-transition: all 0.3s ease-out;
-  -o-transition: all 0.3s ease-out;
-  -ms-transition: all 0.3s ease-out;
-  transition: all 0.3s ease-out;
-  text-decoration: none;
-}
-a:hover {
-  color: #6cf;
-}
-#crew {
-  margin-bottom: 20px;
-  width: 1160px;
-  margin: 0 auto;
-}
-#crew > li {
-  position: relative;
-  display: block;
-  float: left;
-  margin: 20px;
-  padding: 20px;
-  width: 500px;
-  min-height: 155px;
-  vertical-align: top;
-  -webkit-border-radius: 4px;
-  border-radius: 4px;
-  -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.8), 0 1px 0 rgba(255,255,255,0.2);
-  box-shadow: inset 0 0 2px rgba(0,0,0,0.8), 0 1px 0 rgba(255,255,255,0.2);
-  -webkit-transition: all 0.8s ease-out;
-  -moz-transition: all 0.8s ease-out;
-  -o-transition: all 0.8s ease-out;
-  -ms-transition: all 0.8s ease-out;
-  transition: all 0.8s ease-out;
-  height: 250px;
-  padding-right: 220px;
-}
-#crew > li:hover {
-  background-color: rgba(255,255,255,0.05);
-  -webkit-transition-duration: '0.2s';
-  -moz-transition-duration: '0.2s';
-  -o-transition-duration: '0.2s';
-  -ms-transition-duration: '0.2s';
-  -webkit-transition-duration: '0.2s';
-  -moz-transition-duration: '0.2s';
-  -o-transition-duration: '0.2s';
-  -ms-transition-duration: '0.2s';
-  transition-duration: '0.2s';
-}
-#crew > li h3 {
-  margin: 0;
-  padding: 0;
-  font-family: "Ubuntu";
-  font-size: 35px;
-}
-#crew > li h3 img {
-  height: 23px;
-  margin-right: 10px;
-  border: 1px solid dagray;
-  -webkit-border-radius: 4px;
-  border-radius: 4px;
-}
-#crew > li ul {
-  margin-left: 0;
-}
-#crew > li ul li.location img {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  border: 1px solid dagray;
-  -webkit-border-radius: 4px;
-  border-radius: 4px;
-  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.4);
-  box-shadow: 0 1px 2px rgba(0,0,0,0.4);
-}
-.ttImg {
-  position: absolute;
-  border: 1px solid #808080;
-  -webkit-border-radius: 10px;
-  border-radius: 10px;
-  display: none;
-}
-.crewSearch {
-  margin: 0 auto;
-  width: 620px;
-  display: block;
-  padding: 10px;
-  font-size: 25px;
-  background: rgba(0,0,0,0);
-  border: 0;
-  -webkit-box-shadow: inset 0 0 10px #222;
-  box-shadow: inset 0 0 10px #222;
-  margin-top: 20px;
-  color: #fff;
-  outline: 0;
-}
-@media all and (max-width:1160px) {
-  * {
+    -webkit-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-  }
-  #crew {
-    width: 100%;
-    margin: 0 auto;
-  }
-  #crew li {
-    width: 100%;
-    margin: 0 auto;
-  }
 }
+
+body {
+    float: left;
+    margin: 20px 0;
+    width: 100%;
+    background-color: #444;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #444), color-stop(1, #222));
+    background-image: -webkit-linear-gradient(top, #444 0, #222 100%);
+    background-image: -moz-linear-gradient(top, #444 0, #222 100%);
+    background-image: -o-linear-gradient(top, #444 0, #222 100%);
+    background-image: -ms-linear-gradient(top, #444 0, #222 100%);
+    background-image: linear-gradient(top, #444 0, #222 100%);
+    background-attachment: fixed;
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+    font-family: 'Cabin', arial, serif;
+}
+
+h1 {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-shadow: 0 1px 0 #ccc, 0 2px 0 #bbb, 0 3px 0 #aaa, 0 4px 0 #333, 0 6px 1px rgba(0,0,0,0.1), 0 0 5px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.3), 0 3px 5px rgba(0,0,0,0.2), 0 5px 10px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.2), 0 20px 20px rgba(0,0,0,0.15);
+    font-size: 72px;
+    font-family: 'Cabin Sketch';
+}
+
+h1 + p {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: #3af;
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+a:hover {
+    color: #6cf;
+}
+
+#crew {
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 1160px;
+}
+
+#crew > li {
+    position: relative;
+    display: block;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    padding-right: 220px;
+    min-height: 155px;
+    width: 500px;
+    height: 250px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.8), 0 1px 0 rgba(255,255,255,0.2);
+    box-shadow: inset 0 0 2px rgba(0,0,0,0.8), 0 1px 0 rgba(255,255,255,0.2);
+    vertical-align: top;
+    -webkit-transition: all 0.8s ease-out;
+    -moz-transition: all 0.8s ease-out;
+    -ms-transition: all 0.8s ease-out;
+    -o-transition: all 0.8s ease-out;
+    transition: all 0.8s ease-out;
+}
+
+#crew > li:hover {
+    background-color: rgba(255,255,255,0.05);
+    -webkit-transition-duration: '0.2s';
+    -webkit-transition-duration: '0.2s';
+    -moz-transition-duration: '0.2s';
+    -moz-transition-duration: '0.2s';
+    -ms-transition-duration: '0.2s';
+    -ms-transition-duration: '0.2s';
+    -o-transition-duration: '0.2s';
+    -o-transition-duration: '0.2s';
+    transition-duration: '0.2s';
+}
+
+#crew > li h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 35px;
+    font-family: "Ubuntu";
+}
+
+#crew > li h3 img {
+    margin-right: 10px;
+    height: 23px;
+    border: 1px solid dagray;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+
+#crew > li ul {
+    margin-left: 0;
+}
+
+#crew > li ul li.location img {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border: 1px solid dagray;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.4);
+    box-shadow: 0 1px 2px rgba(0,0,0,0.4);
+}
+
+.ttImg {
+    position: absolute;
+    display: none;
+    border: 1px solid #808080;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+#crewSearch {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px;
+    width: 620px;
+    outline: 0;
+    border: 0;
+    background: rgba(0,0,0,0);
+    -webkit-box-shadow: inset 0 0 10px #222;
+    box-shadow: inset 0 0 10px #222;
+    color: #fff;
+    font-size: 25px;
+}
+
+@media all and (max-width:1160px) {
+    * {
+        -webkit-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    #crew {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    #crew li {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+}
+
