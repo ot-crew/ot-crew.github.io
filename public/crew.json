@@ -286,13 +286,14 @@
 , { "irc": "karbassi"
   , "twitter": "karbassi"
   , "github": "karbassi"
-  , "location": "Chicago, IL"
+  , "location": "Chicago, IL, USA"
   , "name": "Ali Karbassi"
   , "occupation": "Architect / Sr. Interactive Developer"
   , "birthday": "May 6, 1986"
-  , "imgUrl": "http://a1.twimg.com/profile_images/589432832/Eye-to-Eye-2_normal.jpg"
+  , "imgUrl": "http://karbassi.com/ali.jpg"
   , "numOfBikesHitBy": 1
   , "numOfCarsHitBy": 3
+  , "doored": "once a month"
   , "email": "ali@karbassi.com"
   }
 
