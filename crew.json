@@ -1,0 +1,15 @@
+---
+NOTE: Don't touch this file.
+---
+[{% for crew_data in site.data.crew %}{% assign handle = crew_data[0] %}{% assign og = crew_data[1] %}
+{ "name": "{% if og.name %}{{ og.name }}{% endif %}"
+, "irc": "{% if handle %}{{ handle }}{% endif %}"
+, "twitter": "{% if og.twitter %}{{ og.twitter }}{% endif %}"
+, "github": "{% if og.github %}{{ og.github }}{% endif %}"
+, "location": "{% if og.location %}{{ og.location }}{% endif %}"
+, "occupation": "{% if og.occupation %}{{ og.occupation }}{% endif %}"
+, "birthday": "{% if og.birthday %}{{ og.birthday }}{% endif %}"
+, "website": "{% if og.website %}{{ og.website }}{% endif %}"
+, "imgUrl": "{% if og.imgUrl %}{{ og.imgUrl }}{% endif %}"
+}{% if forloop.last %}{% else %},{% endif %}{% endfor %}
+]
