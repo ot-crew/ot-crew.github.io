@@ -1,4 +1,4 @@
 ---
 NOTE: Don't touch this file.
 ---
-[{% for a in site.data.crew %}{ {% for b in a[1] %}"{{ b[0] }}": "{{ b[1] }}"{% if forloop.last %}{% else %}, {% endif %}{% endfor %} }{% if forloop.last %}{% else %},{% endif %}{% endfor %}]
+[{% for a in site.data.crew %}{ {% for b in a[1] %}"{{ b[0] }}":"{{ b[1] }}"{% if forloop.last %}{% else %},{% endif %}{% endfor %}}{% if forloop.last %}{% else %},{% endif %}{% endfor %}]
