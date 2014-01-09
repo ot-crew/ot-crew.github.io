@@ -85,9 +85,9 @@ akahn:
   github: "akahn"
   location: "Northampton, MA"
   name: "Alex Kahn"
-  occupation: "Web Developer, Paperless Post"
+  occupation: "Technical Operations Engineer, Paperless Post"
   birthday: "April 1, 1986"
-  imgUrl: "http://img.tweetimag.es/i/akahn_o"
+  imgUrl: "https://pbs.twimg.com/profile_images/1246671269/image.jpg"
 
 antonkovalyov:
   twitter: "valueof"
