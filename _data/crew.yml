@@ -1,4 +1,5 @@
 Aamir:
+  irc: "Aamir"
   twitter: "aamirafridi"
   github: "aamirafridi"
   location: "London, UK"
@@ -9,6 +10,7 @@ Aamir:
   numOfCarsHitBy: "1"
 
 BBonifield:
+  irc: "BBonifield"
   twitter: "BBonifield"
   github: "BBonifield"
   location: "Boulder, Colorado"
@@ -18,6 +20,7 @@ BBonifield:
   occupation: "Software Engineer"
 
 Brodingo:
+  irc: "Brodingo"
   twitter: "Brodingo"
   location: "Austin, TX"
   name: "Brody Kwiatkowski"
@@ -26,6 +29,7 @@ Brodingo:
   website: "http://brodingo.com"
 
 JonathanNeal:
+  irc: "JonathanNeal"
   twitter: "jon_neal"
   github: "jonathantneal"
   location: "Orange, CA"
@@ -34,6 +38,7 @@ JonathanNeal:
   imgUrl: "http://a0.twimg.com/profile_images/618505643/tweet.jpg"
 
 NoiseEee:
+  irc: "NoiseEee"
   location: "Toronto, Canada"
   name: "Joshua Malinsky"
   birthday: "October 5, 1971"
@@ -44,6 +49,7 @@ NoiseEee:
   legitFatherOf: "2"
 
 SlexAxton:
+  irc: "SlexAxton"
   twitter: "SlexAxton"
   location: "Austin, Texas"
   name: "Alex Sexton"
@@ -52,6 +58,7 @@ SlexAxton:
   imgUrl: "https://si3.twimg.com/profile_images/505590110/1ac219a6360a061d1ab2dbdc93435c96_reasonably_small.jpeg"
 
 Wilto:
+  irc: "Wilto"
   twitter: "wilto"
   github: "wilto"
   location: "Boston, MA"
@@ -64,6 +71,7 @@ Wilto:
   birthday: "July 17, 19??"
 
 addyosmani:
+  irc: "addyosmani"
   twitter: "addyosmani"
   github: "addyosmani"
   location: "London, England"
@@ -73,6 +81,7 @@ addyosmani:
   occupation: "User-interface Developer"
 
 ajpiano:
+  irc: "ajpiano"
   twitter: "ajpiano"
   github: "ajpiano"
   location: "New York, NY"
@@ -81,6 +90,7 @@ ajpiano:
   imgUrl: "http://a1.twimg.com/profile_images/1320031614/twitpic_beer.png"
 
 akahn:
+  irc: "akahn"
   twitter: "akahn"
   github: "akahn"
   location: "Northampton, MA"
@@ -90,6 +100,7 @@ akahn:
   imgUrl: "https://pbs.twimg.com/profile_images/1246671269/image.jpg"
 
 antonkovalyov:
+  irc: "antonkovalyov"
   twitter: "valueof"
   github: "antonkovalyov"
   location: "San Francisco, CA"
@@ -98,6 +109,7 @@ antonkovalyov:
   imgUrl: "http://a0.twimg.com/profile_images/1249337305/IMG_7266.jpg"
 
 atula:
+  irc: "atula"
   twitter: "VuongN"
   github: "VuongN"
   location: "Boston, MA, USA"
@@ -106,6 +118,7 @@ atula:
   imgUrl: "http://si0.twimg.com/profile_images/1363451079/vuongnguyen.jpg"
 
 ben_alman:
+  irc: "ben_alman"
   twitter: "cowboy"
   github: "cowboy"
   location: "Boston, MA"
@@ -116,6 +129,7 @@ ben_alman:
   numOfBikesHitBy: 1
 
 benschwarz:
+  irc: "benschwarz"
   twitter: "benschwarz"
   github: "benschwarz"
   location: "Melbourne, Australia"
@@ -124,6 +138,7 @@ benschwarz:
   imgUrl: "http://a2.twimg.com/profile_images/280124623/Photo-69.png"
 
 bentruyman:
+  irc: "bentruyman"
   twitter: "bentruyman"
   github: "bentruyman"
   location: "Chicago, IL"
@@ -133,6 +148,7 @@ bentruyman:
   occupation: "Front-End Developer, Braintree Payment Solutions"
 
 beverloo:
+  irc: "beverloo"
   twitter: "beverloo"
   github: "beverloo"
   location: "London, United Kingdom"
@@ -142,6 +158,7 @@ beverloo:
   imgUrl: "http://a0.twimg.com/profile_images/1021016589/twitter_reasonably_small.jpg"
 
 boaz:
+  irc: "boaz"
   twitter: "boazsender"
   github: "boazsender"
   location: "Boston, MA"
@@ -151,6 +168,7 @@ boaz:
   occupation: "JavaScript Programmer"
 
 bot-t:
+  irc: "bot-t"
   name: "bot-t"
   location: "Sentient, but living in the machine locale"
   occupation: "IRC Bot"
@@ -159,6 +177,7 @@ bot-t:
   numOfCarsHitBy: "3"
 
 brianarn:
+  irc: "brianarn"
   name: "Brian Arnold"
   twitter: "brianarn"
   github: "brianarn"
@@ -173,6 +192,7 @@ brianarn:
     - "Lily"
 
 brianloveswords:
+  irc: "brianloveswords"
   twitter: "brianloveswords"
   github: "brianloveswords"
   location: "Brooklyn, NY"
@@ -183,6 +203,7 @@ brianloveswords:
   website: "http://bjb.io"
 
 buritica:
+  irc: "buritica"
   twitter: "buritica"
   github: "buritica"
   location: "New York, NY"
@@ -192,6 +213,7 @@ buritica:
   imgUrl: "https://si0.twimg.com/profile_images/2308399096/v7lo4r0xj20pxuvxvno3_normal.jpeg"
 
 clamstar:
+  irc: "clamstar"
   twitter: "rx"
   github: "rixth"
   location: "New York City, NY"
@@ -201,6 +223,7 @@ clamstar:
   imgUrl: "https://pbs.twimg.com/profile_images/3244473517/780db4c2fb3d95331d0174b8bbd1b7fa.jpeg"
 
 danheberden:
+  irc: "danheberden"
   twitter: "danheberden"
   github: "danheberden"
   location: "Beaverton, Oregon"
@@ -210,6 +233,7 @@ danheberden:
   imgUrl: "http://a3.twimg.com/profile_images/1281159034/headshot_new_200_reasonably_small.jpg"
 
 darcyclarke:
+  irc: "darcyclarke"
   twitter: "darcy_clarke"
   github: "darcyclarke"
   location: "Toronto, Ontario"
@@ -220,6 +244,7 @@ darcyclarke:
   website: "http://darcyclarke.me/"
 
 dytrivedi:
+  irc: "dytrivedi"
   twitter: "dhavaltrivedi"
   github: "dytrivedi"
   location: "Bangalore, India"
@@ -229,6 +254,7 @@ dytrivedi:
   imgUrl: "http://a1.twimg.com/profile_images/1138558050/dhaval.jpg"
 
 erichynds:
+  irc: "erichynds"
   twitter: "erichynds"
   github: "ehynds"
   name: "Eric Hynds"
@@ -239,6 +265,7 @@ erichynds:
   email: "eric@hynds.net"
 
 fermion:
+  irc: "fermion"
   twitter: "fermion"
   github: "fermion"
   location: "Boston, MA"
@@ -248,6 +275,7 @@ fermion:
   imgUrl: "http://www.gravatar.com/avatar/725d78780e24d930b9f3a910a10f71cb.jpg"
 
 garann:
+  irc: "garann"
   name: "Garann Means"
   twitter: "garannm"
   github: "garann"
@@ -257,6 +285,7 @@ garann:
   imgUrl: "http://farm7.static.flickr.com/6016/6013138784_481503e0d4_o.jpg"
 
 gf3:
+  irc: "gf3"
   twitter: "gf3"
   github: "gf3"
   location: "Toronto, ON"
@@ -268,6 +297,7 @@ gf3:
   imgUrl: "http://www.gravatar.com/avatar/4b0209ae3652cc5a7d53545e759fbe39.png?s=250"
 
 gnarf:
+  irc: "gnarf"
   twitter: "gnarf"
   github: "gnarf"
   location: "Boston, MA"
@@ -276,6 +306,7 @@ gnarf:
   imgUrl: "http://a1.twimg.com/profile_images/1158131746/41424_560729700_146_q.jpg"
 
 imjoshdean:
+  irc: "imjoshdean"
   twitter: "imjoshdean"
   github: "imjoshdean"
   location: "Milwaukee, WI"
@@ -287,6 +318,7 @@ imjoshdean:
   imgUrl: "http://www.gravatar.com/avatar/3282bba910cbf2936251e351f1405c26.jpg"
 
 iros:
+  irc: "iros"
   twitter: "ireneros"
   github: "iros"
   location: "Boston, MA"
@@ -295,6 +327,7 @@ iros:
   imgUrl: "http://ireneros.com/images/me.jpg"
 
 jaubourg:
+  irc: "jaubourg"
   twitter: "jaubourg"
   github: "jaubourg"
   location: "Brussels, Belgium"
@@ -304,6 +337,7 @@ jaubourg:
   imgUrl: "http://a0.twimg.com/profile_images/935212408/mmorpg2.png"
 
 jdalton:
+  irc: "jdalton"
   twitter: "jdalton"
   location: "Lewis Center, OH"
   name: "John-David Dalton"
@@ -313,6 +347,7 @@ jdalton:
   github: "jdalton"
 
 jedimind:
+  irc: "jedimind"
   twitter: "canapud"
   github: "pudly"
   location: "Toronto, Ontario"
@@ -323,6 +358,7 @@ jedimind:
   website: "http://www.pud.ca"
 
 jennmoneydollars:
+  irc: "jennmoneydollars"
   twitter: "jennschiffer"
   github: "jennschiffer"
   location: "Montclair, NJ"
@@ -332,6 +368,7 @@ jennmoneydollars:
   imgUrl: "http://www.baristanet.com/assets-about/jenn.jpg"
 
 johnkpaul:
+  irc: "johnkpaul"
   twitter: "johnkpaul"
   github: "johnkpaul"
   location: "NYC, NY, USA"
@@ -340,6 +377,7 @@ johnkpaul:
   website: "http://johnkpaul.tumblr.com"
 
 jonclark:
+  irc: "jonclark"
   twitter: "jonscottclark"
   github: "jonscottclark"
   location: "London, Canada"
@@ -349,6 +387,7 @@ jonclark:
   occupation: "Web Developer, Hall Marketing Communications"
 
 karbassi:
+  irc: "karbassi"
   twitter: "karbassi"
   github: "karbassi"
   location: "Chicago, IL, USA"
@@ -362,6 +401,7 @@ karbassi:
   email: "ali@karbassi.com"
 
 kborchers:
+  irc: "kborchers"
   location: "Naperville, IL"
   name: "Kris Borchers"
   twitter: "k_borchers"
@@ -372,6 +412,7 @@ kborchers:
   numOfCarsHitBy: "1"
 
 kswedberg:
+  irc: "kswedberg"
   location: "Grand Rapids, MI"
   name: "Karl Swedberg"
   birthday: "December 20, 1967"
@@ -379,6 +420,7 @@ kswedberg:
   imgUrl: "https://si0.twimg.com/profile_images/1332566356/karl-201104.jpg"
 
 lawnsea:
+  irc: "lawnsea"
   twitter: "lawnsea"
   github: "lawnsea"
   location: "Austin, TX"
@@ -388,6 +430,7 @@ lawnsea:
   imgUrl: "https://si0.twimg.com/profile_images/3738757124/ea1edf46078403202ef2f5c5a2fd00a8.jpeg"
 
 louisremi:
+  irc: "louisremi"
   location: "Paris, France"
   name: "Louis-Rémi Babé"
   twitter: "louis_remi"
@@ -399,6 +442,7 @@ louisremi:
   nameOfCat: "Céphée"
 
 matjas:
+  irc: "matjas"
   twitter: "mathias"
   github: "mathiasbynens"
   name: "Mathias Bynens"
@@ -409,6 +453,7 @@ matjas:
   numOfCarsHitBy: "1"
 
 mekwall:
+  irc: "mekwall"
   twitter: "mekwall"
   github: "mekwall"
   location: "Uppsala, Sweden"
@@ -418,6 +463,7 @@ mekwall:
   occupation: "Software Engineer"
 
 mikesherov:
+  irc: "mikesherov"
   twitter: "mikesherov"
   github: "mikesherov"
   location: "New York, NY"
@@ -426,6 +472,7 @@ mikesherov:
   birthday: "November 9, 1981"
 
 miketaylr:
+  irc: "miketaylr"
   twitter: "miketaylr"
   github: "miketaylr"
   location: "Austin, TX"
@@ -437,6 +484,7 @@ miketaylr:
   rofl: "copter"
 
 necolas:
+  irc: "necolas"
   twitter: "necolas"
   github: "necolas"
   location: "London, UK"
@@ -445,6 +493,7 @@ necolas:
   website: "http://nicolasgallagher.com"
 
 nimbupani:
+  irc: "nimbupani"
   twitter: "nimbuin"
   github: "nimbupani"
   location: "Seattle"
@@ -454,6 +503,7 @@ nimbupani:
   imgUrl: "http://a3.twimg.com/profile_images/1132114368/divya-june-2010.jpg"
 
 nlogax:
+  irc: "nlogax"
   twitter: "ultror"
   github: "nlogax"
   location: "Umea, Sweden"
@@ -462,6 +512,7 @@ nlogax:
   occupation: "Software Engineer, Spotify"
 
 paul_irish:
+  irc: "paul_irish"
   twitter: "paul_irish"
   location: "San Francisco, CA"
   name: "Paul Irish"
@@ -471,6 +522,7 @@ paul_irish:
   github: "paulirish"
 
 peol:
+  irc: "peol"
   location: "Lund, Sweden"
   name: "Andrée Hansson"
   twitter: "peolanha"
@@ -480,6 +532,7 @@ peol:
   imgUrl: "http://a3.twimg.com/profile_images/1299324629/169836_173113589397966_141219962587329_365360_1795881_o_reasonably_small.jpg"
 
 pifantastic:
+  irc: "pifantastic"
   twitter: "AaronForsander"
   github: "pifantastic"
   location: "Austin, TX, USA"
@@ -490,6 +543,7 @@ pifantastic:
   numOfCarsHitBy: "0"
 
 ralphholzmann:
+  irc: "ralphholzmann"
   twitter: "rlph"
   github: "ralphholzmann"
   location: "Fond du Lac, Wisconsin"
@@ -500,6 +554,7 @@ ralphholzmann:
   numOfCarsHitBy: "1"
 
 rmill:
+  irc: "rmill"
   twitter: "rmill"
   github: "rmillr"
   location: "Ottawa, CANADA"
@@ -509,6 +564,7 @@ rmill:
   imgUrl: "http://rmill.ca/avatar.gif"
 
 rmurphey:
+  irc: "rmurphey"
   name: "Rebecca Murphey"
   location: "Durham, NC"
   occupation: "Lead JS Architect at Toura"
@@ -518,6 +574,7 @@ rmurphey:
   github: "rmurphey"
 
 roger_raymond:
+  irc: "roger_raymond"
   twitter: "iansym"
   github: "iansym"
   location: "41.561537,-72.783474"
@@ -528,6 +585,7 @@ roger_raymond:
   imgUrl: "http://www.gravatar.com/avatar/ee81fc264dae0903e874c0aa90088009.jpg"
 
 rpflo:
+  irc: "rpflo"
   name: "Ryan Florence"
   twitter: "ryanflorence"
   github: "rpflorence"
@@ -538,6 +596,7 @@ rpflo:
   offspring: 2
 
 rtgibbons:
+  irc: "rtgibbons"
   twitter: "rtgibbons"
   github: "rtgibbons"
   location: "Boulder, CO, USA"
@@ -547,6 +606,7 @@ rtgibbons:
   imgUrl: "https://twimg0-a.akamaihd.net/profile_images/1640691093/Photo_on_2011-11-15_at_11.21.jpg"
 
 rwaldron:
+  irc: "rwaldron"
   twitter: "rwaldron"
   github: "rwldrn"
   location: "Boston, MA"
@@ -556,6 +616,7 @@ rwaldron:
   occupation: "JavaScript Evangelist"
 
 ryanneufeld:
+  irc: "ryanneufeld"
   twitter: "ryanneufeld"
   github: "ryanneufeld"
   location: "Vancouver, British Columbia"
@@ -565,6 +626,7 @@ ryanneufeld:
   imgUrl: "https://pbs.twimg.com/profile_images/1640880060/Team_Ryan_bigger.jpg"
 
 s5fs:
+  irc: "s5fs"
   twitter: "s5fs"
   github: "aulvi"
   location: "Portland, OR"
@@ -575,6 +637,7 @@ s5fs:
   imgUrl: "https://si0.twimg.com/profile_images/3591503511/001708b16c4b57e579f37bde492eee95_normal.png"
 
 savetheclocktowr:
+  irc: "savetheclocktowr"
   twitter: "andrewdupont"
   github: "savetheclocktower"
   location: "Austin, TX, USA"
@@ -584,6 +647,7 @@ savetheclocktowr:
   imgUrl: "https://si0.twimg.com/profile_images/535966628/2581_837155601380_7913428_50886446_6131983_n.jpg"
 
 sean`:
+  irc: "sean`"
   twitter: "seankoole"
   github: "seankoole"
   location: "Amsterdam, Netherlands"
@@ -593,6 +657,7 @@ sean`:
   occupation: ""
 
 seutje:
+  irc: "seutje"
   twitter: "seutje"
   github: "seutje"
   location: "Antwerp, BE"
@@ -602,6 +667,7 @@ seutje:
   imgUrl: "http://www.gravatar.com/avatar/ca405aac9991d43459b8bbd8b1c64c31.png"
 
 shama:
+  irc: "shama"
   twitter: "shamakry"
   github: "shama"
   location: "Napa, CA"
@@ -611,6 +677,7 @@ shama:
   imgUrl: "https://si0.twimg.com/profile_images/2955524678/71d407332675eab6b3de0b0e50829fad.jpeg"
 
 shanejonas:
+  irc: "shanejonas"
   twitter: "shanejonas"
   github: "shanejonas"
   location: "Toronto, Ontario"
@@ -619,6 +686,7 @@ shanejonas:
   imgUrl: "https://si0.twimg.com/profile_images/3278175804/df535ccecd1f6067a28ce988a9951f99_bigger.jpeg"
 
 sindresorhus:
+  irc: "sindresorhus"
   twitter: "sindresorhus"
   github: "sindresorhus"
   location: "Lillehammer, Norway"
@@ -629,6 +697,7 @@ sindresorhus:
   website: "http://sindresorhus.com"
 
 snover:
+  irc: "snover"
   twitter: "zetafleet"
   location: "Minneapolis, MN"
   name: "Colin Snover"
@@ -636,6 +705,7 @@ snover:
   github: "csnover"
 
 tbranyen:
+  irc: "tbranyen"
   twitter: "tbranyen"
   github: "tbranyen"
   location: "Boston, MA"
@@ -645,6 +715,7 @@ tbranyen:
   imgUrl: "http://a2.twimg.com/profile_images/1266952523/200551_704483756985_24408698_37833741_1990632_n.jpg"
 
 unruthless:
+  irc: "unruthless"
   twitter: "unruthless"
   github: "unruthless"
   location: "Boston, MA"
@@ -652,6 +723,7 @@ unruthless:
   imgUrl: "http://wes.io/GUI1/ruthie_bendor.jpeg"
 
 vladikoff:
+  irc: "vladikoff"
   twitter: "vladikoff"
   github: "vladikoff"
   location: "Toronto, Ontario"
@@ -661,6 +733,7 @@ vladikoff:
   occupation: "Web Application & Mobile Developer"
 
 voodootikigod:
+  irc: "voodootikigod"
   name: "Chris Williams"
   location: "Reston, VA"
   occupation: "Willy Wonka"
@@ -669,6 +742,7 @@ voodootikigod:
   <3s: "Long walks on the beach"
 
 wesbos:
+  irc: "wesbos"
   twitter: "wesbos"
   github: "wesbos"
   location: "Toronto, Ontario"
@@ -679,6 +753,7 @@ wesbos:
   website: "http://www.wesbos.com"
 
 wookiehangover:
+  irc: "wookiehangover"
   twitter: "wookiehangover"
   github: "wookiehangover"
   location: "Boulder, Colorado"
@@ -689,6 +764,7 @@ wookiehangover:
   email: "sam@quickleft.com"
 
 yonkeltron:
+  irc: "yonkeltron"
   name: "Jonathan E. Magen"
   location: "New Haven, CT"
   twitter: "yonkeltron"
