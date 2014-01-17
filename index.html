@@ -20,7 +20,7 @@
         {% for crew_data in site.data.crew %}
         {% assign handle = crew_data[0] %}
         {% assign og = crew_data[1] %}
-        <li id="{{ handle }}">
+        <li id="{{ handle | upcase }}">
             <h3><img src="{% if og.imgUrl %}{{ og.imgUrl }}{% else %}public/images/batman-for-facebook.jpg{% endif %}" width="23" height="23" /><span class="name">{{ og.name }}</span></h3>
             <ul>
                 <li class="irc">IRC nick: {{ handle }}</li>
