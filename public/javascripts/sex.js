@@ -40,7 +40,7 @@
 
     $('#crewSearch').on('keyup', function(e){
         var wat = $(this).val();
-        var $street_names = $OGs.filter('[id*=' + wat + ']');
+        var $street_names = $OGs.filter('[id*=' + wat.toUpperCase() + ']');
         var $homies_names = $OGs.find('.name:straightup(' + wat + ')').parent().parent();
         var $found_homies = $.fn.add.call($street_names, $homies_names);
 
