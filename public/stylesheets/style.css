@@ -1,14 +1,12 @@
 html {
     height: 100%;
-    background-color: #444;
+    background-color: DarkSlateGray;
 }
 
 *,
 *:before,
 *:after {
     -webkit-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
@@ -17,14 +15,7 @@ body {
     float: left;
     margin: 20px 0;
     width: 100%;
-    background-color: #444;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #444), color-stop(1, #222));
-    background-image: -webkit-linear-gradient(top, #444 0, #222 100%);
-    background-image: -moz-linear-gradient(top, #444 0, #222 100%);
-    background-image: -o-linear-gradient(top, #444 0, #222 100%);
-    background-image: -ms-linear-gradient(top, #444 0, #222 100%);
-    background-image: linear-gradient(top, #444 0, #222 100%);
-    background-attachment: fixed;
+    background-color: DarkSlateGray;
     color: #fff;
     text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
     font-family: 'Cabin', arial, serif;
@@ -77,10 +68,7 @@ a:hover {
     min-height: 155px;
     width: 500px;
     height: 250px;
-    -webkit-border-radius: 4px;
-    border-radius: 4px;
-    -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.8), 0 1px 0 rgba(255,255,255,0.2);
-    box-shadow: inset 0 0 2px rgba(0,0,0,0.8), 0 1px 0 rgba(255,255,255,0.2);
+    box-shadow: inset 0 0 2px rgba(0,0,0,0.6), 0 1px 0 rgba(255,255,255,0.2);
     vertical-align: top;
     -webkit-transition: all 0.8s ease-out;
     -moz-transition: all 0.8s ease-out;
@@ -92,12 +80,8 @@ a:hover {
 #crew > li:hover {
     background-color: rgba(255,255,255,0.05);
     -webkit-transition-duration: '0.2s';
-    -webkit-transition-duration: '0.2s';
-    -moz-transition-duration: '0.2s';
     -moz-transition-duration: '0.2s';
     -ms-transition-duration: '0.2s';
-    -ms-transition-duration: '0.2s';
-    -o-transition-duration: '0.2s';
     -o-transition-duration: '0.2s';
     transition-duration: '0.2s';
 }
@@ -113,7 +97,6 @@ a:hover {
     margin-right: 10px;
     height: 23px;
     border: 1px solid dagray;
-    -webkit-border-radius: 4px;
     border-radius: 4px;
 }
 
@@ -126,9 +109,7 @@ a:hover {
     top: 10px;
     right: 10px;
     border: 1px solid dagray;
-    -webkit-border-radius: 4px;
     border-radius: 4px;
-    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.4);
     box-shadow: 0 1px 2px rgba(0,0,0,0.4);
 }
 
@@ -136,7 +117,6 @@ a:hover {
     position: absolute;
     display: none;
     border: 1px solid #808080;
-    -webkit-border-radius: 10px;
     border-radius: 10px;
 }
 
@@ -149,20 +129,12 @@ a:hover {
     outline: 0;
     border: 0;
     background: rgba(0,0,0,0);
-    -webkit-box-shadow: inset 0 0 10px #222;
-    box-shadow: inset 0 0 10px #222;
+    box-shadow: inset 0 0 8px #333;
     color: #fff;
     font-size: 25px;
 }
 
 @media all and (max-width:1160px) {
-    * {
-        -webkit-box-sizing: border-box;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-    }
 
     #crew {
         margin: 0 auto;
