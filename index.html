@@ -14,7 +14,7 @@
     <header>
         <h1>-ot!</h1>
         <p>We are {% capture number_of_homies %}{{ site.data.crew | size }}{% endcapture %}{{ number_of_homies }} strong!</p>
-        <input type="text" id="crewSearch" />
+        <input type="text" id="crewSearch" placeholder="Search...">
     </header>
     <ul id="crew">
         {% for crew_data in site.data.crew %}
