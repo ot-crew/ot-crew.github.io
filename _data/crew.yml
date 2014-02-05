@@ -705,6 +705,15 @@ snover:
   occupation: "JavaScript Engineer, SitePen Inc."
   github: "csnover"
 
+deathbearbrown:
+  irc: "deathbearbrown"
+  twitter: "deathbearbrown"
+  github: "deathbearbrown"
+  location: "Boston, MA"
+  name: "Sue Lockwood"
+  occupation: "Developer"
+  imgUrl: "https://pbs.twimg.com/profile_images/430856147528998912/03GTPDeo_bigger.jpeg"
+
 tbranyen:
   irc: "tbranyen"
   twitter: "tbranyen"
