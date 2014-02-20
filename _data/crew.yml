@@ -606,6 +606,16 @@ rtgibbons:
   birthday: "October 27, 1982"
   imgUrl: "https://twimg0-a.akamaihd.net/profile_images/1640691093/Photo_on_2011-11-15_at_11.21.jpg"
 
+rushainem:
+  irc: "rushainem"
+  twitter: "copasetickid"
+  github: "copasetickid"
+  location: "Yonkers, NY"
+  name: "Rushaine McBean"
+  birthday: "March 24, 1989"
+  imgUrl: "http://www.gravatar.com/avatar/6ae4272ecc4f00018f8d184d5f60eb9b.png"
+  occupation: "Software Developer"
+
 rwaldron:
   irc: "rwaldron"
   twitter: "rwaldron"
