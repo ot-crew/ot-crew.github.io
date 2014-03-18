@@ -111,15 +111,6 @@ akahn:
   birthday: "April 1, 1986"
   imgUrl: "https://pbs.twimg.com/profile_images/1246671269/image.jpg"
 
-antonkovalyov:
-  irc: "antonkovalyov"
-  twitter: "valueof"
-  github: "antonkovalyov"
-  location: "San Francisco, CA"
-  name: "Anton Kovalyov"
-  occupation: "Debugger"
-  imgUrl: "http://a0.twimg.com/profile_images/1249337305/IMG_7266.jpg"
-
 atula:
   irc: "atula"
   twitter: "VuongN"
@@ -357,17 +348,6 @@ jdalton:
   birthday: "July 12, 1982"
   imgUrl: "https://secure.gravatar.com/avatar/299a3d891ff1920b69c364d061007043?s=140"
   github: "jdalton"
-
-jedimind:
-  irc: "jedimind"
-  twitter: "canapud"
-  github: "pudly"
-  location: "Toronto, Ontario"
-  name: "Andrej Simeonov"
-  occupation: "Front-end snob"
-  birthday: "December 17, 1981"
-  imgUrl: "http://www.pud.ca/me.jpg"
-  website: "http://www.pud.ca"
 
 jennmoneydollars:
   irc: "jennmoneydollars"
