@@ -179,6 +179,18 @@ bot-t:
   imgUrl: "http://farm7.staticflickr.com/6230/6217074365_b23b59a3fd_z.jpg"
   numOfCarsHitBy: "3"
 
+brenna:
+  irc: "brenna"
+  twitter: "brnnbrn"
+  github: "brenna"
+  location: "Toronto, eh"
+  occupation: "Lead Developer & Instructor at HackerYou"
+  name: "Brenna O'Brien"
+  imgUrl: "http://brennaobrien.com/assets/b-square.jpg"
+  birthday: "August 21, 1984"
+  website: "http://brennaobrien.com"
+  numOfStreetcarTrackIncidents: 2
+
 brianarn:
   irc: "brianarn"
   name: "Brian Arnold"
