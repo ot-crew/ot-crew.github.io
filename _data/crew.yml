@@ -306,7 +306,8 @@ gnarf:
   location: "Boston, MA"
   name: "Corey Frang"
   birthday: "27 May, 1980"
-  imgUrl: "http://a1.twimg.com/profile_images/1158131746/41424_560729700_146_q.jpg"
+  occupation: "Open Web Engineer - Bocoup"
+  imgUrl: "http://www.gravatar.com/avatar/52e65a3c802ae662b6c0e0989a7c4425.png"
 
 imjoshdean:
   irc: "imjoshdean"
