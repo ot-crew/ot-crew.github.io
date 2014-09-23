@@ -517,6 +517,17 @@ jonasw:
   imgUrl: "http://si0.twimg.com/profile_images/1514745569/Photo_on_8-25-11_at_8.34_PM__2.jpg"
   occupation: "Software Engineer, Spotify"
 
+ohhoe:
+  irc: "ohhoe"
+  twitter: "ohhoe"
+  location: "Brooklyn, NY"
+  name: "Rachel White"
+  occupation: "Software Engineer, Behance"
+  birthday: "December 28th, 1985"
+  imgUrl: "http://i.imgur.com/TZt7UL5.jpg"
+  github: "rachelnicole"
+  cats: 2
+
 paul_irish:
   irc: "paul_irish"
   twitter: "paul_irish"
