@@ -407,13 +407,13 @@ karbassi:
 
 kborchers:
   irc: "kborchers"
-  location: "Naperville, IL"
+  location: "Flower Mound, TX"
   name: "Kris Borchers"
-  twitter: "k_borchers"
+  twitter: "kborchers"
   github: "kborchers"
   birthday: "January 30, 1981"
-  occupation: "Senior Software Engineer, Red Hat"
-  imgUrl: "http://a1.twimg.com/profile_images/995666212/me.png"
+  occupation: "Excutive Director, jQuery Foundation"
+  imgUrl: "https://secure.gravatar.com/avatar/911518c9eb1079cb417b06b78215414b?size=120"
   numOfCarsHitBy: "1"
 
 kswedberg:
