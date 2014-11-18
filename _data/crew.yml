@@ -617,11 +617,11 @@ rtgibbons:
   irc: "rtgibbons"
   twitter: "rtgibbons"
   github: "rtgibbons"
-  location: "Boulder, CO, USA"
+  location: "Fort Worth, TX, USA"
   name: "Ryan Gibbons"
-  occupation: "Sr. Developer @ CP+B"
+  occupation: "Architect Lead @ CP+B"
   birthday: "October 27, 1982"
-  imgUrl: "https://twimg0-a.akamaihd.net/profile_images/1640691093/Photo_on_2011-11-15_at_11.21.jpg"
+  imgUrl: "http://en.gravatar.com/userimage/8735562/bc51063ce4a38f3c9b79cce20fffff64.jpg?size=200"
 
 rushainem:
   irc: "rushainem"
