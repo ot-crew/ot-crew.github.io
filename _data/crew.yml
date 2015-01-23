@@ -320,6 +320,17 @@ gnarf:
   birthday: "27 May, 1980"
   occupation: "Open Web Engineer - Bocoup"
   imgUrl: "http://www.gravatar.com/avatar/52e65a3c802ae662b6c0e0989a7c4425.png"
+  
+helen:
+  irc: "helen"
+  location: "Jersey City, NJ"
+  name: "Helen Hou-Sandí"
+  birthday: "October 1, 1985"
+  occupation: "Director of Platform Experience at 10up, WordPress core committer"
+  twitter: "helenhousandi"
+  email: "h@hyhs.me"
+  imgUrl: "https://pbs.twimg.com/profile_images/538186547024367616/zXjvQKED.jpeg"
+  coolMomOf: "1"
 
 imjoshdean:
   irc: "imjoshdean"
