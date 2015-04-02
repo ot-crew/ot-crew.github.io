@@ -396,11 +396,12 @@ jonclark:
   irc: "jonclark"
   twitter: "jonscottclark"
   github: "jonscottclark"
-  location: "London, Canada"
-  name: "Jon Clark"
-  imgUrl: "http://a1.twimg.com/profile_images/727855592/ME_smaller_normal.jpg"
+  location: "Toronto, Canada"
+  name: "Jon Scott Clark"
+  imgUrl: "http://gravatar.com/avatar/adf2288e9f4fbd825d8bebeae68380e8?s=256"
   birthday: "September 1, 1986"
-  occupation: "Web Developer, Hall Marketing Communications"
+  occupation: "Freelance Developer"
+  website: "http://jclark.io"
 
 karbassi:
   irc: "karbassi"
