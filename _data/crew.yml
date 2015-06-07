@@ -10,6 +10,17 @@ aaronj1335:
   website: "http://aaronstacy.com"
   numOfCarsHitBy: 1
 
+AllThingsSmitty:
+  irc: "AllThingsSmitty"
+  twitter: "AllThingsSmitty"
+  github: "AllThingsSmitty"
+  location: "Portland, ME"
+  occupation: "Front-End Developer"
+  name: "Matt Smith"
+  imgUrl: "https://gravatar.com/avatar/1ba19b20dfd597b96b1b780a0bbb6dd8?s=170"
+  birthday: "Septemer 30, 1977"
+  numOfGoCartsCrashed: "2"
+
 Aamir:
   irc: "Aamir"
   twitter: "aamirafridi"
