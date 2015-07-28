@@ -761,7 +761,7 @@ tbranyen:
   name: "Tim Branyen"
   birthday: "August 18, 1987"
   occupation: "Developer"
-  imgUrl: "http://a2.twimg.com/profile_images/1266952523/200551_704483756985_24408698_37833741_1990632_n.jpg"
+  imgUrl: "https://gravatar.com/avatar/ecfb3037874bf719c92018651d96bdf5?s=240"
 
 unruthless:
   irc: "unruthless"
