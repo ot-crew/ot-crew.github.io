@@ -583,15 +583,15 @@ ralphholzmann:
   numOfCarsHitBy: "1"
   flippable: false
 
-rmill:
-  irc: "rmill"
-  twitter: "rmill"
-  github: "rmillr"
-  location: "Ottawa, CANADA"
+rickymiller:
+  irc: "rickymiller"
+  twitter: "rickycodes"
+  github: "rickycodes"
+  location: "Toronto, CANADA"
   name: "Ricky Miller"
   occupation: "Front-end Developer"
   birthday: "November 5, 1981"
-  imgUrl: "http://rmill.ca/avatar.gif"
+  imgUrl: "http://ricky.codes/avatar.gif"
 
 rmurphey:
   irc: "rmurphey"
