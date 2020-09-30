@@ -7,7 +7,7 @@ aaronj1335:
   name: "Aaron Stacy"
   imgUrl: "https://gravatar.com/avatar/d7cd2f1a2616bb166c30f43866415cdd?s=170"
   birthday: "May 11, 1985"
-  website: "http://aaronstacy.com"
+  website: "https://aaronstacy.com"
   numOfCarsHitBy: 1
 
 Aamir:
@@ -27,7 +27,7 @@ BBonifield:
   github: "BBonifield"
   location: "Boulder, Colorado"
   name: "Bob Bonifield"
-  imgUrl: "http://a3.twimg.com/profile_images/412806653/9332_747889072309_16832216_42552089_1790181_n.jpg"
+  imgUrl: "https://a3.twimg.com/profile_images/412806653/9332_747889072309_16832216_42552089_1790181_n.jpg"
   birthday: "March 29, 1983"
   occupation: "Software Engineer"
 
@@ -37,8 +37,8 @@ Brodingo:
   location: "Austin, TX"
   name: "Brody Kwiatkowski"
   birthday: "May 8, 1987"
-  imgUrl: "http://brodingo.com/img/b.jpg"
-  website: "http://brodingo.com"
+  imgUrl: "https://brodingo.com/img/b.jpg"
+  website: "https://brodingo.com"
 
 JonathanNeal:
   irc: "JonathanNeal"
@@ -47,7 +47,7 @@ JonathanNeal:
   location: "Orange, CA"
   name: "Jonathan Neal"
   birthday: "September 20, 1982"
-  imgUrl: "http://a0.twimg.com/profile_images/618505643/tweet.jpg"
+  imgUrl: "https://a0.twimg.com/profile_images/618505643/tweet.jpg"
 
 NoiseEee:
   irc: "NoiseEee"
@@ -76,9 +76,9 @@ Wilto:
   location: "Boston, MA"
   name: "Mat Marquis"
   occupation: "Custodial Engineer"
-  imgUrl: "http://a2.twimg.com/profile_images/1402454427/wilto.png"
-  website: "http://matmarquis.com/"
-  transitOpinions: "http://dwhswoatmbta.com/"
+  imgUrl: "https://a2.twimg.com/profile_images/1402454427/wilto.png"
+  website: "https://matmarquis.com/"
+  transitOpinions: "https://dwhswoatmbta.com/"
   numOfCarsHitBy: "2"
   birthday: "January 8, 196?"
 
@@ -88,7 +88,7 @@ addyosmani:
   github: "addyosmani"
   location: "London, England"
   name: "Addy Osmani"
-  imgUrl: "http://a0.twimg.com/profile_images/1256987680/addyosmaniicon.jpg"
+  imgUrl: "https://a0.twimg.com/profile_images/1256987680/addyosmaniicon.jpg"
   birthday: "March 24, 1986"
   occupation: "User-interface Developer"
 
@@ -99,7 +99,7 @@ ajpiano:
   location: "New York, NY"
   name: "adam j. sontag"
   birthday: "March 17, 1986"
-  imgUrl: "http://a1.twimg.com/profile_images/1320031614/twitpic_beer.png"
+  imgUrl: "https://a1.twimg.com/profile_images/1320031614/twitpic_beer.png"
 
 akahn:
   irc: "akahn"
@@ -118,7 +118,7 @@ atula:
   location: "Boston, MA, USA"
   name: "Vuong Nguyen"
   occupation: "Web Developer"
-  imgUrl: "http://si0.twimg.com/profile_images/1363451079/vuongnguyen.jpg"
+  imgUrl: "https://si0.twimg.com/profile_images/1363451079/vuongnguyen.jpg"
 
 ben_alman:
   irc: "ben_alman"
@@ -126,7 +126,7 @@ ben_alman:
   github: "cowboy"
   location: "Boston, MA"
   name: "Ben Alman"
-  imgUrl: "http://benalman.com/images/avatar/headshot_kangol_200.jpg"
+  imgUrl: "https://benalman.com/images/avatar/headshot_kangol_200.jpg"
   birthday: "November 10, 1975"
   occupation: "Musician, Photographer, Pluginizer"
   numOfBikesHitBy: 1
@@ -138,7 +138,7 @@ benschwarz:
   location: "Melbourne, Australia"
   name: "Ben Schwarz"
   occupation: "Independent web guy"
-  imgUrl: "http://a2.twimg.com/profile_images/280124623/Photo-69.png"
+  imgUrl: "https://a2.twimg.com/profile_images/280124623/Photo-69.png"
 
 bentruyman:
   irc: "bentruyman"
@@ -147,7 +147,7 @@ bentruyman:
   location: "San Francisco, CA"
   name: "Ben Truyman"
   birthday: "July 28, 1987"
-  imgUrl: "http://www.gravatar.com/avatar/59102db8584fb0aec0c7832e6a2065ca.png"
+  imgUrl: "https://www.gravatar.com/avatar/59102db8584fb0aec0c7832e6a2065ca.png"
   occupation: "Tools Development Lead, Apple"
 
 beverloo:
@@ -158,7 +158,7 @@ beverloo:
   name: "Peter Beverloo"
   occupation: "Software Engineer, Google Chrome"
   birthday: "June 9, 1989"
-  imgUrl: "http://a0.twimg.com/profile_images/1021016589/twitter_reasonably_small.jpg"
+  imgUrl: "https://a0.twimg.com/profile_images/1021016589/twitter_reasonably_small.jpg"
 
 boaz:
   irc: "boaz"
@@ -166,7 +166,7 @@ boaz:
   github: "boazsender"
   location: "Boston, MA"
   name: "Boaz Sender"
-  imgUrl: "http://boazsender.com/boaz-sender.jpg"
+  imgUrl: "https://boazsender.com/boaz-sender.jpg"
   birthday: "December 28, 1985"
   occupation: "JavaScript Programmer"
 
@@ -176,7 +176,7 @@ bot-t:
   location: "Sentient, but living in the machine locale"
   occupation: "IRC Bot"
   birthday: "Jan 01, 1970"
-  imgUrl: "http://farm7.staticflickr.com/6230/6217074365_b23b59a3fd_z.jpg"
+  imgUrl: "https://farm7.staticflickr.com/6230/6217074365_b23b59a3fd_z.jpg"
   numOfCarsHitBy: "3"
 
 brenna:
@@ -186,9 +186,9 @@ brenna:
   location: "Toronto, eh"
   occupation: "Lead Developer & Instructor at HackerYou"
   name: "Brenna O'Brien"
-  imgUrl: "http://brennaobrien.com/assets/b-square.jpg"
+  imgUrl: "https://brennaobrien.com/assets/b-square.jpg"
   birthday: "August 21, 1984"
-  website: "http://brennaobrien.com"
+  website: "https://brennaobrien.com"
   numOfStreetcarTrackIncidents: 2
 
 brianarn:
@@ -199,8 +199,8 @@ brianarn:
   location: "Albuquerque, NM"
   occupation: "Software Engineer, Lead Support / Training"
   birthday: "February 1, 1979"
-  imgUrl: "http://www.randomthink.net/avatar_100.jpg"
-  website: "http://www.randomthink.net/"
+  imgUrl: "https://www.randomthink.net/avatar_100.jpg"
+  website: "https://www.randomthink.net/"
   numOfCarsHitBy: "5"
   petNames:
     - "Gryphon"
@@ -215,7 +215,7 @@ brianloveswords:
   occupation: "Plumber @ Mozilla Foundation"
   birthday: "August 13, 1985"
   imgUrl: "https://pbs.twimg.com/profile_images/3426841674/766c6a1633c935bccf8bfe1b872b70a8.jpeg"
-  website: "http://bjb.io"
+  website: "https://bjb.io"
 
 buritica:
   irc: "buritica"
@@ -245,7 +245,7 @@ danheberden:
   name: "Dan Heberden"
   occupation: "Independent Consultant"
   birthday: "May 28, 1983"
-  imgUrl: "http://a3.twimg.com/profile_images/1281159034/headshot_new_200_reasonably_small.jpg"
+  imgUrl: "https://a3.twimg.com/profile_images/1281159034/headshot_new_200_reasonably_small.jpg"
 
 darcyclarke:
   irc: "darcyclarke"
@@ -256,7 +256,7 @@ darcyclarke:
   imgUrl: "https://si3.twimg.com/profile_images/1180176758/dddd.jpg"
   birthday: "June 26th, 1987"
   occupation: "Web Developer & Designer"
-  website: "http://darcyclarke.me/"
+  website: "https://darcyclarke.me/"
 
 dytrivedi:
   irc: "dytrivedi"
@@ -264,9 +264,9 @@ dytrivedi:
   github: "dytrivedi"
   location: "Bangalore, India"
   name: "Dhaval Trivedi"
-  occupation: "Technical Manager, <a href='http://sourcebits.com' target='_blank'>Sourcebits</a>"
+  occupation: "Technical Manager, <a href='https://sourcebits.com' target='_blank'>Sourcebits</a>"
   birthday: "May 30, 1983"
-  imgUrl: "http://a1.twimg.com/profile_images/1138558050/dhaval.jpg"
+  imgUrl: "https://a1.twimg.com/profile_images/1138558050/dhaval.jpg"
 
 erichynds:
   irc: "erichynds"
@@ -276,7 +276,7 @@ erichynds:
   location: "Boston, MA"
   occupation: "Front-end developer"
   birthday: "August 4, 1986"
-  imgUrl: "http://www.gravatar.com/avatar/57721d7c4df5a1e10e9442a79296956e.png"
+  imgUrl: "https://www.gravatar.com/avatar/57721d7c4df5a1e10e9442a79296956e.png"
   email: "eric@hynds.net"
 
 fermion:
@@ -287,7 +287,7 @@ fermion:
   name: "Rob Sterner"
   birthday: "June 6, 1978"
   email: "rob.sterner@gmail.com"
-  imgUrl: "http://www.gravatar.com/avatar/725d78780e24d930b9f3a910a10f71cb.jpg"
+  imgUrl: "https://www.gravatar.com/avatar/725d78780e24d930b9f3a910a10f71cb.jpg"
 
 garann:
   irc: "garann"
@@ -297,7 +297,7 @@ garann:
   location: "Austin, TX"
   occupation: "Sr. JavaScript Engineer"
   birthday: "October 27, 1978"
-  imgUrl: "http://farm7.static.flickr.com/6016/6013138784_481503e0d4_o.jpg"
+  imgUrl: "https://farm7.static.flickr.com/6016/6013138784_481503e0d4_o.jpg"
 
 gf3:
   irc: "gf3"
@@ -308,8 +308,8 @@ gf3:
   birthday: "March 27, 1988"
   email: "gianni@runlevel6.org"
   numOfCarsHitBy: "3"
-  website: "http://butt.zone"
-  imgUrl: "http://www.gravatar.com/avatar/4b0209ae3652cc5a7d53545e759fbe39.png?s=250"
+  website: "https://butt.zone"
+  imgUrl: "https://www.gravatar.com/avatar/4b0209ae3652cc5a7d53545e759fbe39.png?s=250"
 
 gnarf:
   irc: "gnarf"
@@ -319,7 +319,7 @@ gnarf:
   name: "Corey Frang"
   birthday: "27 May, 1980"
   occupation: "Open Web Engineer - Bocoup"
-  imgUrl: "http://www.gravatar.com/avatar/52e65a3c802ae662b6c0e0989a7c4425.png"
+  imgUrl: "https://www.gravatar.com/avatar/52e65a3c802ae662b6c0e0989a7c4425.png"
   
 helen:
   irc: "helen"
@@ -342,7 +342,7 @@ imjoshdean:
   occupation: "JavaScript Developer, Bitovi; Webmaster, Lunar Solis Corp."
   email: "imjoshdean@me.com"
   bestPony: "Rainbow Dash"
-  imgUrl: "http://www.gravatar.com/avatar/3282bba910cbf2936251e351f1405c26.jpg"
+  imgUrl: "https://www.gravatar.com/avatar/3282bba910cbf2936251e351f1405c26.jpg"
 
 iros:
   irc: "iros"
@@ -351,7 +351,7 @@ iros:
   location: "Boston, MA"
   name: "Irene Ros"
   birthday: "December 20, 1984"
-  imgUrl: "http://ireneros.com/images/me.jpg"
+  imgUrl: "https://ireneros.com/images/me.jpg"
 
 jaubourg:
   irc: "jaubourg"
@@ -359,9 +359,9 @@ jaubourg:
   github: "jaubourg"
   location: "Brussels, Belgium"
   name: "Julian Aubourg"
-  occupation: "LOLBAT, <a target='_blank' href='http://www.creative-area.net/'>Creative Area</a>"
+  occupation: "LOLBAT, <a target='_blank' href='https://www.creative-area.net/'>Creative Area</a>"
   birthday: "April 12, 1975"
-  imgUrl: "http://a0.twimg.com/profile_images/935212408/mmorpg2.png"
+  imgUrl: "https://a0.twimg.com/profile_images/935212408/mmorpg2.png"
 
 jdalton:
   irc: "jdalton"
@@ -381,7 +381,7 @@ jennmoneydollars:
   name: "Jenn Schiffer"
   occupation: "Glitch Witch @ Fog Creek"
   birthday: "February 11, 1985"
-  imgUrl: "http://www.gravatar.com/avatar/ab4bd1cd0c3c40b26a5f7b8f5a7d6d1e?size=300"
+  imgUrl: "https://www.gravatar.com/avatar/ab4bd1cd0c3c40b26a5f7b8f5a7d6d1e?size=300"
 
 johnkpaul:
   irc: "johnkpaul"
@@ -389,8 +389,8 @@ johnkpaul:
   github: "johnkpaul"
   location: "NYC, NY, USA"
   name: "John K. Paul"
-  imgUrl: "http://1.gravatar.com/avatar/eee585a10c1d7c4f1f30e28077ffa720?size=420"
-  website: "http://johnkpaul.tumblr.com"
+  imgUrl: "https://1.gravatar.com/avatar/eee585a10c1d7c4f1f30e28077ffa720?size=420"
+  website: "https://johnkpaul.tumblr.com"
 
 jonclark:
   irc: "jonclark"
@@ -398,10 +398,10 @@ jonclark:
   github: "jonscottclark"
   location: "Toronto, Canada"
   name: "Jon Scott Clark"
-  imgUrl: "http://gravatar.com/avatar/adf2288e9f4fbd825d8bebeae68380e8?s=256"
+  imgUrl: "https://gravatar.com/avatar/adf2288e9f4fbd825d8bebeae68380e8?s=256"
   birthday: "September 1, 1986"
   occupation: "Freelance Developer"
-  website: "http://jclark.io"
+  website: "https://jclark.io"
 
 karbassi:
   irc: "karbassi"
@@ -411,7 +411,7 @@ karbassi:
   name: "Ali Karbassi"
   occupation: "Architect / Sr. Interactive Developer"
   birthday: "May 6, 1986"
-  imgUrl: "http://karbassi.com/ali.jpg"
+  imgUrl: "https://karbassi.com/ali.jpg"
   numOfBikesHitBy: "1"
   numOfCarsHitBy: "3"
   doored: "once a month"
@@ -454,7 +454,7 @@ louisremi:
   github: "louisremi"
   birthday: "July 23, 1986"
   occupation: "Developer engagement"
-  imgUrl: "http://a0.twimg.com/profile_images/1101378665/louisremi_normal.png"
+  imgUrl: "https://a0.twimg.com/profile_images/1101378665/louisremi_normal.png"
   numOfCarsHitBy: "1"
   nameOfCat: "Céphée"
 
@@ -466,7 +466,7 @@ mathiasbynens:
   location: "Grembergen, Belgium"
   occupation: "Freelance front-end developer"
   birthday: "May 24, 1988"
-  imgUrl: "http://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=128"
+  imgUrl: "https://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=128"
   numOfCarsHitBy: "1"
 
 mekwall:
@@ -496,7 +496,7 @@ miketaylr:
   name: "Mike Taylor"
   occupation: "Internet Jerk Face"
   birthday: "October 10, 1980"
-  imgUrl: "http://a2.twimg.com/profile_images/1042621997/mikeyyyy.png"
+  imgUrl: "https://a2.twimg.com/profile_images/1042621997/mikeyyyy.png"
   numOfCarsHitBy: "4"
   numOfCarsHit: "2"
   rofl: "copter"
@@ -508,7 +508,7 @@ necolas:
   location: "London, UK"
   name: "Nicolas Gallagher"
   imgUrl: "https://si0.twimg.com/profile_images/1578798555/necolas.jpg"
-  website: "http://nicolasgallagher.com"
+  website: "https://nicolasgallagher.com"
 
 nimbupani:
   irc: "nimbupani"
@@ -518,7 +518,7 @@ nimbupani:
   name: "Divya Manian"
   occupation: "Web Opener, Opera"
   birthday: "July 18, 1983"
-  imgUrl: "http://a3.twimg.com/profile_images/1132114368/divya-june-2010.jpg"
+  imgUrl: "https://a3.twimg.com/profile_images/1132114368/divya-june-2010.jpg"
 
 jonasw:
   irc: "jonasw"
@@ -526,7 +526,7 @@ jonasw:
   github: "nlogax"
   location: "San Francisco, CA"
   name: "Jonas Westerlund"
-  imgUrl: "http://si0.twimg.com/profile_images/1514745569/Photo_on_8-25-11_at_8.34_PM__2.jpg"
+  imgUrl: "https://si0.twimg.com/profile_images/1514745569/Photo_on_8-25-11_at_8.34_PM__2.jpg"
   occupation: "Software Engineer, Spotify"
 
 ohhoe:
@@ -536,7 +536,7 @@ ohhoe:
   name: "Rachel White"
   occupation: "Software Engineer, Behance"
   birthday: "December 28th, 1985"
-  imgUrl: "http://i.imgur.com/TZt7UL5.jpg"
+  imgUrl: "https://i.imgur.com/TZt7UL5.jpg"
   github: "rachelnicole"
   cats: 2
 
@@ -547,7 +547,7 @@ paul_irish:
   name: "Paul Irish"
   occupation: "Google Chrome Developer Relations"
   birthday: "July 23, 1982"
-  imgUrl: "http://a1.twimg.com/profile_images/1326877605/greenavatar_crop.jpg"
+  imgUrl: "https://a1.twimg.com/profile_images/1326877605/greenavatar_crop.jpg"
   github: "paulirish"
 
 peol:
@@ -558,7 +558,7 @@ peol:
   github: "peol"
   birthday: "September 11, 1984"
   occupation: "Front-end Developer"
-  imgUrl: "http://a3.twimg.com/profile_images/1299324629/169836_173113589397966_141219962587329_365360_1795881_o_reasonably_small.jpg"
+  imgUrl: "https://a3.twimg.com/profile_images/1299324629/169836_173113589397966_141219962587329_365360_1795881_o_reasonably_small.jpg"
 
 pifantastic:
   irc: "pifantastic"
@@ -591,7 +591,7 @@ rickymiller:
   name: "Ricky Miller"
   occupation: "Front-end Developer"
   birthday: "November 5, 1981"
-  imgUrl: "http://ricky.codes/avatar.gif"
+  imgUrl: "https://ricky.codes/avatar.gif"
 
 rmurphey:
   irc: "rmurphey"
@@ -599,7 +599,7 @@ rmurphey:
   location: "Durham, NC"
   occupation: "Lead JS Architect at Toura"
   birthday: "Jan 04, 1977"
-  imgUrl: "http://dl.dropbox.com/u/2916642/rmurphey-berlin.jpg"
+  imgUrl: "https://dl.dropbox.com/u/2916642/rmurphey-berlin.jpg"
   <3s: "Melissa"
   github: "rmurphey"
 
@@ -612,7 +612,7 @@ roger_raymond:
   occupation: "Staff Web Developer, ESPN.com"
   birthday: "August 30, 1972"
   email: "roger@lynch-raymond.com"
-  imgUrl: "http://www.gravatar.com/avatar/ee81fc264dae0903e874c0aa90088009.jpg"
+  imgUrl: "https://www.gravatar.com/avatar/ee81fc264dae0903e874c0aa90088009.jpg"
 
 rpflo:
   irc: "rpflo"
@@ -622,7 +622,7 @@ rpflo:
   location: "West Jordan, UT"
   occupation: "Software Engineer"
   birthday: "May 07, 1981"
-  imgUrl: "http://www.gravatar.com/avatar/749001c9fe6927c4b069a45c2a3d68f7?s=200"
+  imgUrl: "https://www.gravatar.com/avatar/749001c9fe6927c4b069a45c2a3d68f7?s=200"
   offspring: 2
 
 rtgibbons:
@@ -633,7 +633,7 @@ rtgibbons:
   name: "Ryan Gibbons"
   occupation: "Architect Lead @ CP+B"
   birthday: "October 27, 1982"
-  imgUrl: "http://en.gravatar.com/userimage/8735562/bc51063ce4a38f3c9b79cce20fffff64.jpg?size=200"
+  imgUrl: "https://en.gravatar.com/userimage/8735562/bc51063ce4a38f3c9b79cce20fffff64.jpg?size=200"
 
 rushainem:
   irc: "rushainem"
@@ -642,7 +642,7 @@ rushainem:
   location: "Yonkers, NY"
   name: "Rushaine McBean"
   birthday: "March 24, 1989"
-  imgUrl: "http://www.gravatar.com/avatar/6ae4272ecc4f00018f8d184d5f60eb9b.png"
+  imgUrl: "https://www.gravatar.com/avatar/6ae4272ecc4f00018f8d184d5f60eb9b.png"
   occupation: "Software Developer"
 
 rwaldron:
@@ -652,7 +652,7 @@ rwaldron:
   location: "Boston, MA"
   name: "Rick Waldron"
   birthday: "July 23, 1981"
-  imgUrl: "http://www.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437.png"
+  imgUrl: "https://www.gravatar.com/avatar/36c697d974542aadaee06a0f39cb1437.png"
   occupation: "JavaScript Evangelist"
 
 ryanneufeld:
@@ -673,7 +673,7 @@ s5fs:
   name: "Adam Ulvi"
   occupation: "Software Developer"
   birthday: "November 19, 1979"
-  website: "http://pokemedia.com"
+  website: "https://pokemedia.com"
   imgUrl: "https://si0.twimg.com/profile_images/3591503511/001708b16c4b57e579f37bde492eee95_normal.png"
 
 savetheclocktowr:
@@ -692,7 +692,7 @@ sean`:
   github: "seankoole"
   location: "Amsterdam, Netherlands"
   name: "Sean Koole"
-  imgUrl: "http://a0.twimg.com/profile_images/1103428238/image_normal.jpg"
+  imgUrl: "https://a0.twimg.com/profile_images/1103428238/image_normal.jpg"
   birthday: "May 22, 1989"
   occupation: ""
 
@@ -704,7 +704,7 @@ seutje:
   name: "Steve De Jonghe"
   occupation: "1337 Frontend Developer at Wunderkraut Belgium"
   birthday: "July 8, 1986"
-  imgUrl: "http://www.gravatar.com/avatar/ca405aac9991d43459b8bbd8b1c64c31.png"
+  imgUrl: "https://www.gravatar.com/avatar/ca405aac9991d43459b8bbd8b1c64c31.png"
 
 shama:
   irc: "shama"
@@ -713,7 +713,7 @@ shama:
   location: "Portland, OR"
   name: "Kyle Robinson Young"
   birthday: "August 22, 1982"
-  website: "http://dontkry.com"
+  website: "https://dontkry.com"
   imgUrl: "https://pbs.twimg.com/profile_images/514132078678380546/1eoHZljE_400x400.jpeg"
 
 shanejonas:
@@ -734,7 +734,7 @@ sindresorhus:
   occupation: "JavaScript developer & Open Source addict"
   imgUrl: "https://si0.twimg.com/profile_images/1612265539/304370_10150765342675029_833515028_20487612_6975164_n_reasonably_small.jpg"
   birthday: "March 4, 1989"
-  website: "http://sindresorhus.com"
+  website: "https://sindresorhus.com"
 
 snover:
   irc: "snover"
@@ -769,7 +769,7 @@ unruthless:
   github: "unruthless"
   location: "Boston, MA"
   name: "Ruthie BenDor"
-  imgUrl: "http://wes.io/GUI1/ruthie_bendor.jpeg"
+  imgUrl: "https://wes.io/GUI1/ruthie_bendor.jpeg"
 
 vladikoff:
   irc: "vladikoff"
@@ -777,7 +777,7 @@ vladikoff:
   github: "vladikoff"
   location: "Toronto, Ontario"
   name: "Vlad Filippov"
-  imgUrl: "http://a0.twimg.com/profile_images/1105943858/nouface12_reasonably_small.png"
+  imgUrl: "https://a0.twimg.com/profile_images/1105943858/nouface12_reasonably_small.png"
   birthday: "July, 1988"
   occupation: "Web Application & Mobile Developer"
 
@@ -787,7 +787,7 @@ voodootikigod:
   location: "Reston, VA"
   occupation: "Willy Wonka"
   birthday: "Mar 06, 1981"
-  imgUrl: "http://a2.twimg.com/profile_images/1218709088/Screen_shot_2011-01-17_at_5.png"
+  imgUrl: "https://a2.twimg.com/profile_images/1218709088/Screen_shot_2011-01-17_at_5.png"
   <3s: "Long walks on the beach"
 
 wesbos:
@@ -796,10 +796,10 @@ wesbos:
   github: "wesbos"
   location: "Toronto, Ontario"
   name: "Wes Bos"
-  imgUrl: "http://a2.twimg.com/profile_images/1761697834/winer2012square.jpg"
+  imgUrl: "https://a2.twimg.com/profile_images/1761697834/winer2012square.jpg"
   birthday: "February 18, 1988"
   occupation: "Front End Developer & UI Designer"
-  website: "http://www.wesbos.com"
+  website: "https://www.wesbos.com"
 
 wookiehangover:
   irc: "wookiehangover"
@@ -807,7 +807,7 @@ wookiehangover:
   github: "wookiehangover"
   location: "Boulder, Colorado"
   name: "Sam Breed"
-  imgUrl: "http://dl.dropbox.com/u/4431744/avatar.png"
+  imgUrl: "https://dl.dropbox.com/u/4431744/avatar.png"
   birthday: "May 27, 1986"
   occupation: "VP of Engineering, Quick Left"
   email: "sam@quickleft.com"
@@ -820,7 +820,7 @@ yonkeltron:
   github: "yonkeltron"
   occupation: "Directory of Core Engineering, Continuity Control"
   birthday: "Oct 03, 1986"
-  imgUrl: "http://twimg0-a.akamaihd.net/profile_images/62166233/j-avatar.png"
-  website: "http://yonkeltron.com"
+  imgUrl: "https://twimg0-a.akamaihd.net/profile_images/62166233/j-avatar.png"
+  website: "https://yonkeltron.com"
   <3s: "Hummus, Star Trek, Whiskey"
   fucksGiven: "0"
