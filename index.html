@@ -5,10 +5,10 @@
 <head>
     <meta charset="UTF-8">
     <title>ot-crew</title>
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Cabin+Sketch:bold|Ubuntu|Cabin">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin+Sketch:bold|Ubuntu|Cabin">
     <link rel="stylesheet" href="public/stylesheets/normalize.css">
     <link rel="stylesheet" href="public/stylesheets/style.css">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 </head>
 <body>
     <header>
@@ -24,9 +24,9 @@
             <h3><img src="{% if og.imgUrl %}{{ og.imgUrl }}{% else %}public/images/batman-for-facebook.jpg{% endif %}" width="23" height="23" /><span class="name">{{ og.name }}</span></h3>
             <ul>
                 <li class="irc">IRC nick: {{ handle }}</li>
-                {% if og.twitter %}<li class="twitter">Twitter: <a href="http://twitter.com/{{ og.twitter }}">@{{ og.twitter }}</a></li>{% endif %}
-                {% if og.github %}<li class="github">GitHub: <a href="http://github.com/{{ og.github }}">{{ og.github }}</a></li>{% endif %}
-                {% if og.location %}<li class="location"><a href="http://maps.google.com/maps?&amp;q={{ og.location }}" title="Show it on a big map"><img src="http://maps.googleapis.com/maps/api/staticmap?center={{ og.location }}&size=200x200&sensor=false&key=AIzaSyA_1hGuktni_M7bqQ2cxVfd46FRmsn2ECQ" width="200" height="200" /></a></li>{% endif %}
+                {% if og.twitter %}<li class="twitter">Twitter: <a href="https://twitter.com/{{ og.twitter }}">@{{ og.twitter }}</a></li>{% endif %}
+                {% if og.github %}<li class="github">GitHub: <a href="https://github.com/{{ og.github }}">{{ og.github }}</a></li>{% endif %}
+                {% if og.location %}<li class="location"><a href="https://maps.google.com/maps?&amp;q={{ og.location }}" title="Show it on a big map"><img src="https://maps.googleapis.com/maps/api/staticmap?center={{ og.location }}&size=200x200&sensor=false&key=AIzaSyA_1hGuktni_M7bqQ2cxVfd46FRmsn2ECQ" width="200" height="200" /></a></li>{% endif %}
                 {% if og.occupation %}<li class="occupation">Occupation: {{ og.occupation }}</li>{% endif %}
                 {% if og.birthday %}<li class="birthday">Birthday: {{ og.birthday }}</li>{% endif %}
                 {% if og.website %}<li class="website">Website: <a href="{{ og.website }}">{{ og.website }}</a></li>{% endif %}
